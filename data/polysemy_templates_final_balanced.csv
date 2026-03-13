@@ -1,0 +1,1951 @@
+word,sense_id,sentence_id,sentence
+ball,0,0,The ball sailed across the field and the team celebrated the score.
+ball,0,1,She kicked the ball during practice and it went straight into the goal.
+ball,0,2,"The team warmed up on the field, passing the ball back and forth."
+ball,0,3,He scored by driving the ball past the goalkeeper during the match.
+ball,0,4,The ball bounced off the field as the team prepared for the match.
+ball,0,5,"During practice, the team worked on controlling the ball on the field."
+ball,0,6,The score changed when the ball crossed the goal line in the match.
+ball,0,7,She caught the ball and sprinted down the field to score for the team.
+ball,0,8,The team lost the ball in the final minutes of the match.
+ball,0,9,He juggled the ball during practice before passing it across the field.
+ball,0,10,The ball hit the post and the score remained tied in the match.
+ball,0,11,The team focused on ball control during their practice on the field.
+ball,0,12,A long pass sent the ball to the other end of the field before the score.
+ball,0,13,The match was decided when the ball deflected off a defender for the score.
+ball,0,14,She dribbled the ball across the field as her team called for a pass.
+ball,0,15,The team practiced set plays with the ball on the training field.
+ball,0,16,"He threw the ball down the field, and the team scored on the next play."
+ball,0,17,"The score was close, and the ball was contested by both teams on the field."
+ball,0,18,"During the match, the ball was in play for most of the second half."
+ball,0,19,The team huddled on the field before practice to discuss ball strategy.
+ball,0,20,"The ball spun wildly off the field, and the score stood unchanged."
+ball,0,21,"She passed the ball to her teammate, setting up the winning score in the match."
+ball,0,22,The team's ball movement in practice translated into a great match performance.
+ball,0,23,The ball landed just inside the field boundary for the go-ahead score.
+ball,0,24,He controlled the ball in the final moments of the match to protect the team's score.
+ball,1,0,"The ball was held in the grand hall, with music playing all evening."
+ball,1,1,She wore an elegant gown to the ball and danced until midnight.
+ball,1,2,The music at the ball filled the hall for the entire evening.
+ball,1,3,Guests arrived at the ball in formal gowns and tuxedos.
+ball,1,4,The evening began with a waltz as the ball opened in the grand hall.
+ball,1,5,She bought a new gown specifically for the charity ball.
+ball,1,6,The music swelled as couples took to the dance floor at the ball.
+ball,1,7,The ball was the social highlight of the evening season.
+ball,1,8,"He escorted her into the hall for the ball, the music already playing."
+ball,1,9,The gown she wore to the ball sparkled under the hall's chandeliers.
+ball,1,10,The evening's ball featured live music and dancing until dawn.
+ball,1,11,"She danced every number at the ball, her gown flowing across the hall."
+ball,1,12,The ball was an annual evening event held in the oldest hall in town.
+ball,1,13,Music echoed through the hall as guests mingled at the ball.
+ball,1,14,She admired the decorations in the hall before the ball began.
+ball,1,15,The gown was custom-made for the evening ball at the grand hall.
+ball,1,16,"The ball ended late in the evening, with the last dance and music fading."
+ball,1,17,He reserved seats in the hall for the annual evening ball.
+ball,1,18,The music at the ball ranged from classical waltzes to modern jazz.
+ball,1,19,Her gown was the talk of the ball all evening long.
+ball,1,20,The hall was decorated with flowers and lights for the ball.
+ball,1,21,The evening ball brought together guests in their finest gowns.
+ball,1,22,Music played softly as the ball began in the candlelit hall.
+ball,1,23,She arrived at the hall early to prepare for the evening ball.
+ball,1,24,The gown she chose for the ball made her stand out all evening.
+bank,0,0,I walked into the bank to ask about my {k}.
+bank,0,1,The bank approved my {k} application after a two-week review.
+bank,0,2,She works at the bank and handles {k} requests all day.
+bank,0,3,My bank sent me a letter about my {k} terms.
+bank,0,4,He made a {k} at the bank before heading to work.
+bank,0,5,The new bank on Oak Street is offering competitive {k} rates.
+bank,0,6,Our bank recently updated its {k} policies for customers.
+bank,0,7,I switched to a different bank because of better {k} options.
+bank,0,8,The bank called to verify the {k} I submitted last week.
+bank,0,9,"After the merger, the bank restructured its {k} department."
+bank,0,10,"Every Friday, she goes to the bank to process her {k}."
+bank,0,11,The bank hired additional staff for the {k} counter.
+bank,0,12,His bank statement showed an unexpected {k} discrepancy.
+bank,0,13,The bank downtown has a dedicated {k} services window.
+bank,0,14,We opened a joint {k} at the bank near the mall.
+bank,0,15,The bank is offering a promotion for new {k} holders.
+bank,0,16,My grandmother has kept her {k} at the same bank for decades.
+bank,0,17,The bank tightened its {k} requirements this quarter.
+bank,0,18,I visited the bank to close my old {k}.
+bank,0,19,The bank manager personally handled our {k} paperwork.
+bank,0,20,Our local bank renovated the {k} processing area last month.
+bank,0,21,The bank offers online tools for managing your {k}.
+bank,0,22,She complained to the bank about the {k} fees.
+bank,0,23,The bank froze her {k} pending an investigation.
+bank,0,24,I need to call the bank about my pending {k}.
+bank,1,0,We sat on the bank of the river and watched the sunset.
+bank,1,1,The bank was covered in thick mud after the storm.
+bank,1,2,"Children played along the bank, skipping stones into the stream."
+bank,1,3,He set up his fishing rod on the grassy bank.
+bank,1,4,Wildflowers bloomed all along the bank of the river.
+bank,1,5,The bank of the stream had eroded badly after the floods.
+bank,1,6,We found animal tracks in the mud along the bank.
+bank,1,7,The bank was too steep to climb down to the shore.
+bank,1,8,Tall reeds grew along the bank near the fishing spot.
+bank,1,9,She slipped on the muddy bank and nearly fell into the stream.
+bank,1,10,The river had carved a deep bank through the clay soil.
+bank,1,11,We walked along the bank looking for a good fishing spot.
+bank,1,12,"Trees overhung the bank, their roots trailing into the stream."
+bank,1,13,He cast his fishing line from the sandy bank.
+bank,1,14,The bank along the shore was littered with driftwood.
+bank,1,15,"After the rain, the bank was soft with fresh mud."
+bank,1,16,Deer came down to the bank to drink from the river.
+bank,1,17,The bank near the fishing dock was reinforced with stones.
+bank,1,18,Erosion was eating away at the bank of the stream.
+bank,1,19,We pitched our tent on the flat bank above the river.
+bank,1,20,The bank was slippery with mud after last night's downpour.
+bank,1,21,"A heron stood motionless on the bank, watching the stream."
+bank,1,22,The fishermen gathered on the bank at dawn for their outing.
+bank,1,23,You could see the river from the top of the bank.
+bank,1,24,The bank dropped sharply to the shore below.
+bark,0,0,The bark of the old oak was rough and covered in moss.
+bark,0,1,Sap oozed from a crack in the bark of the pine tree.
+bark,0,2,She peeled a strip of bark from the fallen wood in the forest.
+bark,0,3,The bark on the tree near the roots was darkened with age.
+bark,0,4,"We rested in the shade of a tree with thick, gnarled bark."
+bark,0,5,The forest floor was littered with strips of fallen bark and wood.
+bark,0,6,"Insects had burrowed under the bark, reaching the sap beneath."
+bark,0,7,The bark of the birch tree peeled away in thin white sheets.
+bark,0,8,"Deep in the forest, the bark of ancient trees was covered in lichen."
+bark,0,9,He carved his initials into the bark of a tree near the forest path.
+bark,0,10,The bark protected the wood underneath from harsh weather.
+bark,0,11,Sticky sap seeped through a gash in the bark.
+bark,0,12,The tree's bark was scarred where roots had been exposed.
+bark,0,13,She gathered pieces of bark and wood for the campfire in the forest.
+bark,0,14,The bark felt warm in the shade of the afternoon sun.
+bark,0,15,Forest rangers noted damage to the bark caused by woodpeckers.
+bark,0,16,The bark near the roots was damp with sap and covered in fungi.
+bark,0,17,Smooth bark on young trees gives way to rough wood as they age.
+bark,0,18,"In the shade of the forest, the bark glistened with morning dew."
+bark,0,19,The bark was so thick it protected the sap even during wildfires.
+bark,0,20,He studied the bark patterns to identify tree species in the forest.
+bark,0,21,The bark crumbled into the soil near the exposed roots.
+bark,0,22,"A squirrel clung to the bark, climbing toward the shade of the upper branches."
+bark,0,23,"Beneath the bark, channels of sap ran through the living wood."
+bark,0,24,The bark of this forest tree is prized for its medicinal sap.
+bark,1,0,The dog's bark echoed through the quiet neighborhood at night.
+bark,1,1,A loud bark from the dog startled the neighbor next door.
+bark,1,2,The bark was so piercing it cut through every other noise.
+bark,1,3,"At night, the dog's bark could be heard from blocks away."
+bark,1,4,The neighbor complained about the constant bark and howl of our dog.
+bark,1,5,Every noise seemed to trigger another bark from the anxious dog.
+bark,1,6,The dog let out a sharp bark when the neighbor walked past the fence.
+bark,1,7,A distant howl followed by a bark broke the silence of the night.
+bark,1,8,The dog's bark grew louder as the noise outside increased.
+bark,1,9,Our neighbor's dog has a bark that sounds like a howl.
+bark,1,10,The bark startled the children playing in the yard at night.
+bark,1,11,A single bark from the dog alerted the neighbor to the noise outside.
+bark,1,12,The dog's deep bark echoed down the street every night.
+bark,1,13,The constant bark and howl kept the entire neighborhood awake at night.
+bark,1,14,A sharp bark from the dog warned us about the noise at the door.
+bark,1,15,The neighbor asked us to quiet the dog's bark during the night.
+bark,1,16,Her dog's bark is so loud it drowns out every other noise.
+bark,1,17,The howl turned into a bark as the dog spotted the neighbor's cat.
+bark,1,18,That bark echoed through the night and woke everyone nearby.
+bark,1,19,"The dog's bark was accompanied by a long, mournful howl."
+bark,1,20,"Every night, the same bark rings out when the dog hears a noise."
+bark,1,21,The bark from the dog was loud enough to bother every neighbor on the block.
+bark,1,22,The dog's bark echoed like a howl through the quiet night air.
+bark,1,23,Our neighbor trained the dog to stop its bark at night.
+bark,1,24,The sudden bark of the dog startled everyone in the room.
+bass,0,0,He caught a large bass in the lake using live bait.
+bass,0,1,The bass swam toward the bait in the shallow part of the river.
+bass,0,2,She pulled a bass from the net after a long day on the lake.
+bass,0,3,"The lake was stocked with bass, and the bait shops were busy."
+bass,0,4,A bass broke the surface of the river chasing the bait.
+bass,0,5,He cast his line with fresh bait hoping to catch a bass in the lake.
+bass,0,6,The net was heavy with bass caught from the river that morning.
+bass,0,7,"The bass in the lake were large enough to keep, so he brought extra bait."
+bass,0,8,She used a new type of bait to attract bass near the river bank.
+bass,0,9,The bass were biting all morning in the lake near the old net dock.
+bass,0,10,He released the bass back into the river after removing it from the net.
+bass,0,11,The lake's bass population grew after they stocked it with fish last year.
+bass,0,12,She changed her bait twice before finally hooking a bass in the river.
+bass,0,13,A record-breaking bass was caught in the lake with simple bait.
+bass,0,14,The net was just big enough to hold the bass he pulled from the river.
+bass,0,15,He spent all day at the lake trying different bait for bass.
+bass,0,16,The river's current made it hard to keep the bait where the bass were feeding.
+bass,0,17,She caught three bass from the lake and released them from the net.
+bass,0,18,The bass swirled near the bait but didn't bite in the murky river.
+bass,0,19,He threw the net into the lake and caught a school of bass.
+bass,0,20,The bait drifted downstream in the river until a bass finally struck.
+bass,0,21,She preferred fishing for bass at the lake rather than the river.
+bass,0,22,The net tangled around the bass as it fought in the lake shallows.
+bass,0,23,He loaded the bait on his hook and cast toward the bass in the river.
+bass,0,24,"The lake bass were plentiful, and the bait lasted all afternoon."
+bass,1,0,The bass note added depth and harmony to the entire chord progression.
+bass,1,1,She played a low bass line that set the tone for the piece.
+bass,1,2,The bass provided the harmonic foundation beneath the melody's high notes.
+bass,1,3,He tuned the bass until each note had the right tone and harmony.
+bass,1,4,The chord sounded richer once the bass note was added.
+bass,1,5,"A deep bass tone resonated through the room, grounding the harmony."
+bass,1,6,She held the low bass note while the chord resolved above it.
+bass,1,7,The bass gave the harmony a warm tone that filled the concert hall.
+bass,1,8,He strummed a bass chord and let the low note ring out.
+bass,1,9,The tone of the bass complemented the harmony of the higher notes.
+bass,1,10,A bass note at the bottom of the chord anchored the entire harmony.
+bass,1,11,The low bass tone vibrated through the floor as the chord played.
+bass,1,12,She recognized the bass line by its distinctive note pattern and tone.
+bass,1,13,The harmony shifted when the bass moved to a different chord tone.
+bass,1,14,He played a series of low bass notes that created a rich harmonic foundation.
+bass,1,15,"The bass note was the lowest sound in the chord, setting the tone."
+bass,1,16,She adjusted the bass tone to blend with the harmony of the ensemble.
+bass,1,17,A low bass chord resonated with perfect harmony across the speakers.
+bass,1,18,The note from the bass guitar gave the harmony a darker tone.
+bass,1,19,He added a bass note to the chord to deepen the harmony.
+bass,1,20,The bass tone was warm and full beneath the bright high notes.
+bass,1,21,"She played the bass line, each note contributing to the overall harmony."
+bass,1,22,The chord progression relied on the bass for its low harmonic tone.
+bass,1,23,He held a sustained bass note while the chord and harmony evolved.
+bass,1,24,The low tone of the bass provided the harmonic base for every note above it.
+bat,0,0,A bat flew out of the cave and disappeared into the night.
+bat,0,1,The bat spread its wings and glided over the forest canopy.
+bat,0,2,We spotted a bat hunting insects near the porch light.
+bat,0,3,The nocturnal bat emerged from the cave at dusk.
+bat,0,4,The bat used echolocation to catch insects in the dark.
+bat,0,5,Researchers tagged the bat inside the cave to track migration.
+bat,0,6,"The bat circled the forest clearing, its wings silhouetted against the moon."
+bat,0,7,A tiny bat clung to the cave wall with its wings folded.
+bat,0,8,That species of bat feeds exclusively on insects at night.
+bat,0,9,We watched the bat swoop through the forest after insects.
+bat,0,10,The bat is a nocturnal creature rarely seen during daylight.
+bat,0,11,The bat folded its wings and settled on a branch in the forest.
+bat,0,12,"A nocturnal bat darted above us, chasing insects near the lamp."
+bat,0,13,The cave serves as a roost for several bat species.
+bat,0,14,The bat stretched its wings before taking flight over the forest.
+bat,0,15,"A bat swooped past us in the forest, hunting for insects."
+bat,0,16,This species of bat has an impressive wingspan among forest dwellers.
+bat,0,17,"The bat clung to the cave wall, resting before its nightly insect hunt."
+bat,0,18,Rangers found a rare bat species nesting deep inside the cave.
+bat,0,19,The bat is well adapted to catching insects while flying through the forest.
+bat,0,20,"During the cave tour, a bat flew overhead on silent wings."
+bat,0,21,The nocturnal bat hunts insects in the dark.
+bat,0,22,We saw a small bat hanging upside down.
+bat,0,23,A bat fluttered its wings in the attic.
+bat,0,24,The bat uses echolocation to navigate.
+bat,1,0,He grabbed the bat and stepped up to the plate for his swing.
+bat,1,1,The bat cracked loudly as it connected with the pitch.
+bat,1,2,She picked up the bat during practice and hit a line drive.
+bat,1,3,He wore his helmet and carried the bat to the dugout.
+bat,1,4,The bat slipped from his hands during the third inning.
+bat,1,5,"At practice, the coach adjusted her grip on the bat."
+bat,1,6,The batter swung the bat hard but missed the pitch.
+bat,1,7,He broke his favorite bat during the sixth inning.
+bat,1,8,The pitcher watched nervously as the slugger lifted his bat.
+bat,1,9,She swung the bat with perfect form during practice.
+bat,1,10,The aluminum bat made a ping sound with every swing.
+bat,1,11,He chose a heavier bat to improve his swing power.
+bat,1,12,"During the seventh inning, he stepped up with a new bat."
+bat,1,13,"The pitcher threw a curveball, and the bat barely grazed it."
+bat,1,14,"Before every game, she takes practice swings with her lucky bat."
+bat,1,15,The wooden bat splintered after a powerful swing in the fifth inning.
+bat,1,16,He rested the bat on his shoulder while watching the pitcher warm up.
+bat,1,17,A good bat and consistent practice make all the difference at the plate.
+bat,1,18,She forgot her helmet but grabbed the bat for practice anyway.
+bat,1,19,The bat felt lighter after he adjusted his swing technique.
+bat,1,20,"In the last inning, the cleanup hitter picked up his bat confidently."
+bat,1,21,His bat speed improved dramatically after weeks of extra practice.
+bat,1,22,The pitcher paused as the batter tapped the bat on the plate.
+bat,1,23,The baseball player swung the bat with immense power.
+bat,1,24,He broke his favorite wooden bat during the game.
+bill,0,0,The bill arrived with the invoice showing the total amount due.
+bill,0,1,She made a payment on the bill and kept the receipt.
+bill,0,2,The bill listed every charge with the amount due at the bottom.
+bill,0,3,He reviewed the invoice before paying the bill in full.
+bill,0,4,The receipt confirmed that the bill payment had been processed.
+bill,0,5,The amount on the bill was higher than the original invoice estimated.
+bill,0,6,She disputed the bill because the invoice and receipt amounts didn't match.
+bill,0,7,The bill was due at the end of the month with payment by invoice.
+bill,0,8,He checked the receipt to verify the bill amount was correct.
+bill,0,9,The payment on the bill covered the full amount shown on the invoice.
+bill,0,10,She received a bill with an invoice for the overdue amount.
+bill,0,11,"The receipt showed the bill had been paid, but the amount seemed wrong."
+bill,0,12,He called about the bill because the invoice listed a duplicate payment.
+bill,0,13,The amount due on the bill increased after the late payment fee.
+bill,0,14,She filed the receipt after paying the bill for the full invoice amount.
+bill,0,15,The bill arrived earlier than expected with the amount due clearly stated.
+bill,0,16,He matched the invoice to the bill and confirmed the payment amount.
+bill,0,17,The receipt was proof that the bill had been paid by the due date.
+bill,0,18,She noticed an error on the bill and requested a corrected invoice.
+bill,0,19,The payment amount on the bill was split between two receipts.
+bill,0,20,The bill from the utility company included an itemized invoice.
+bill,0,21,He paid the bill immediately after checking the amount on the receipt.
+bill,0,22,The invoice attached to the bill showed the payment was past due.
+bill,0,23,She kept every receipt for every bill payment throughout the year.
+bill,0,24,"The amount on the bill matched the invoice exactly, so he submitted payment."
+bill,1,0,The duck's bright orange bill dipped into the water to catch a seed.
+bill,1,1,A bird with a long curved bill perched on the branch near the nest.
+bill,1,2,The bill of the pelican can hold more than its stomach.
+bill,1,3,A bird cracked open a seed with its powerful bill while sitting on a branch.
+bill,1,4,The bill of the heron was perfectly shaped for catching fish near the nest.
+bill,1,5,The bird tucked its bill under its wing and settled into the nest.
+bill,1,6,She noticed the bird's colorful bill as it picked seeds off the branch.
+bill,1,7,The parrot used its bill to grip the branch while flapping its wing.
+bill,1,8,"A baby bird in the nest opened its bill wide, waiting for seed."
+bill,1,9,The toucan's oversized bill was visible from across the forest branch.
+bill,1,10,The bird sharpened its bill against the rough bark of the branch.
+bill,1,11,Seeds were scattered below the nest where the bird had dropped them from its bill.
+bill,1,12,The bill of the finch was perfectly adapted for cracking tough seeds.
+bill,1,13,"A bird balanced on a thin branch, its bill full of nesting material."
+bill,1,14,The bill glowed orange as the bird spread its wing and left the nest.
+bill,1,15,She watched the bird use its bill to weave twigs into the nest.
+bill,1,16,The bird's bill was covered in seed husks after feeding on the branch.
+bill,1,17,A hummingbird's slender bill probed the flower near the nest.
+bill,1,18,The bird carried a seed in its bill to the nest on the highest branch.
+bill,1,19,"Its long, pointed bill helped the bird forage among the branches."
+bill,1,20,The wing of the bird brushed the branch as it dipped its bill for a seed.
+bill,1,21,A woodpecker drummed its bill against the branch near its nest.
+bill,1,22,The bird's bill was strong enough to crack the hardest seed on the branch.
+bill,1,23,She photographed a bird with a yellow bill resting in its nest.
+bill,1,24,"The bird extended its wing and flew from the branch, a seed in its bill."
+bolt,0,0,He tightened the bolt on the metal frame using a wrench from the toolbox.
+bolt,0,1,The bolt held the frame together during the repair.
+bolt,0,2,She found the right bolt in the toolbox for the metal frame repair.
+bolt,0,3,A rusted bolt on the frame needed replacement during the repair.
+bolt,0,4,He loosened the bolt and removed the metal piece from the frame.
+bolt,0,5,The bolt was too short to secure the metal to the frame properly.
+bolt,0,6,She replaced the bolt during the repair and tightened it into the frame.
+bolt,0,7,The metal bolt was the only fastener holding the frame together.
+bolt,0,8,He grabbed a bolt from the toolbox and began the frame repair.
+bolt,0,9,A missing bolt in the frame was discovered during the repair inspection.
+bolt,0,10,She drilled a hole for the bolt to fasten the metal frame.
+bolt,0,11,"The bolt came loose on the frame, requiring an immediate repair."
+bolt,0,12,The frame was reinforced with an extra bolt as part of the repair.
+bolt,0,13,She fastened the bolt through the metal bracket on the frame.
+bolt,0,14,A cross-threaded bolt made the frame repair more difficult.
+bolt,0,15,He snapped the bolt trying to force it through the metal frame.
+bolt,0,16,The repair was simple: just replacing one bolt on the frame.
+bolt,0,17,She matched the bolt to the threading on the metal frame before the repair.
+bolt,0,18,The frame rattled because a bolt in the toolbox was never installed.
+bolt,0,19,He used a socket wrench to drive the bolt into the metal frame.
+bolt,0,20,The bolt was the critical fastener that kept the frame rigid during repair.
+bolt,0,21,She inspected every bolt on the frame as part of the routine repair.
+bolt,0,22,A rusted bolt held the machine part together.
+bolt,0,23,She fastened the final bolt on the steel frame.
+bolt,0,24,The heavy bolt was impossible to turn by hand.
+bolt,1,0,The horse made a bolt across the field in a sudden sprint.
+bolt,1,1,"He made a bolt for the exit, sprinting down the hall to escape."
+bolt,1,2,The deer made a sudden bolt into the field to escape the noise.
+bolt,1,3,She saw the rabbit bolt across the field in a sudden run.
+bolt,1,4,"The thief made a bolt for it, sprinting to escape through the field."
+bolt,1,5,"With a sudden move, the cat made a bolt across the yard."
+bolt,1,6,"He decided to bolt from the room, making a sprint for the door."
+bolt,1,7,The dog made a sudden bolt and ran across the open field.
+bolt,1,8,"She had to bolt to escape the storm, sprinting across the field."
+bolt,1,9,"The child made a bolt for the playground, running at full sprint."
+bolt,1,10,He saw the chance to escape and made a bolt for the field.
+bolt,1,11,The horse's sudden bolt startled everyone as it sprinted across the field.
+bolt,1,12,She had to bolt out of the way to escape the runaway cart.
+bolt,1,13,A sudden bolt sent the squirrel sprinting across the field.
+bolt,1,14,"He made a bolt for the field, his sprint fueled by adrenaline."
+bolt,1,15,"The prisoner made a sudden bolt, trying to escape during the yard run."
+bolt,1,16,She watched the fox bolt across the field in a lightning sprint.
+bolt,1,17,The startled bird made a sudden bolt and flew from the field.
+bolt,1,18,He had to bolt and run to escape the approaching danger.
+bolt,1,19,The sprinter made a bolt for the finish line across the field.
+bolt,1,20,"A sudden noise caused the cat to bolt, sprinting to escape."
+bolt,1,21,"The dog made a bolt from the yard, running at a full sprint across the field."
+bolt,1,22,"She made a bolt for the car, trying to escape the sudden rain."
+bolt,1,23,The sudden bolt across the field left everyone stunned at the sprint.
+bolt,1,24,"He saw the opening and made a bolt, sprinting to escape the crowd."
+bow,0,0,The archer drew the bow and released the arrow toward the target.
+bow,0,1,"She practiced with her bow at the range, sending arrows at the target."
+bow,0,2,The bow was a finely crafted weapon used by the archer for decades.
+bow,0,3,He pulled the arrow back on the bow and aimed at the range target.
+bow,0,4,The bow's string snapped after the archer fired too many arrows.
+bow,0,5,She hit the target dead center with her bow from across the range.
+bow,0,6,The bow was the archer's preferred weapon on the competition range.
+bow,0,7,He nocked an arrow on the bow and lined up the target at the range.
+bow,0,8,The archer adjusted the bow before releasing the arrow at the target.
+bow,0,9,The weapon was a recurve bow favored by competitive archers.
+bow,0,10,"She tested the bow at the range, firing arrows at multiple targets."
+bow,0,11,The archer's bow was strung tightly for maximum arrow speed.
+bow,0,12,"He scored well on the range, his bow sending each arrow into the target."
+bow,0,13,The bow was too heavy for the young archer on the target range.
+bow,0,14,She hung her bow on the rack at the range after hitting every target.
+bow,0,15,The archer inspected the bow before selecting an arrow for the target.
+bow,0,16,His bow was custom-built for long-range arrow shots at distant targets.
+bow,0,17,The weapon was a traditional bow used by archers for centuries.
+bow,0,18,She adjusted the bow sight and fired the arrow toward the range target.
+bow,0,19,The archer's bow and arrows were laid out neatly on the weapon rack.
+bow,0,20,"He drew the bow and released the arrow, hitting the outer ring of the target."
+bow,0,21,The range master inspected each bow before the archers began shooting.
+bow,0,22,She chose a lighter bow for the target competition at the indoor range.
+bow,0,23,The arrow flew true from the bow and struck the center of the target.
+bow,0,24,The archer maintained the bow as carefully as any weapon in the collection.
+bow,1,0,She tied a bow with red ribbon on the holiday gift.
+bow,1,1,The package was wrapped neatly with a large bow on top.
+bow,1,2,He added a bow to the gift using leftover holiday ribbon.
+bow,1,3,The holiday gift was complete once she attached the ribbon bow.
+bow,1,4,A satin bow decorated the top of the wrapped package.
+bow,1,5,She taught the children how to tie a bow on the holiday gift wrap.
+bow,1,6,The ribbon bow on the package made the gift look elegant.
+bow,1,7,He wrapped the holiday gift and finished it with a gold bow.
+bow,1,8,The package arrived with a big bow and a holiday ribbon attached.
+bow,1,9,She picked out a ribbon to make a bow for the gift she would wrap.
+bow,1,10,The holiday gifts each had a different colored bow and ribbon.
+bow,1,11,He pulled the ribbon tight and formed a perfect bow on the package.
+bow,1,12,The gift was wrapped in shiny paper with a bow tied in ribbon.
+bow,1,13,She placed a bow on every gift she wrapped for the holiday party.
+bow,1,14,The package's ribbon bow was slightly crushed during shipping.
+bow,1,15,He unwrapped the ribbon bow on the holiday gift carefully.
+bow,1,16,The bow on the gift was made from a wide satin ribbon.
+bow,1,17,The ribbon was curled into a bow that topped the beautifully wrapped gift.
+bow,1,18,The holiday package had a bow so large it nearly hid the wrapping.
+bow,1,19,He found a spare ribbon and added a bow to the last gift.
+bow,1,20,The bow and ribbon combination made the holiday package look festive.
+bow,1,21,She wrapped the gift in paper and tied a simple bow with ribbon.
+bow,1,22,The holiday bow was the finishing touch on every wrapped package.
+bow,1,23,He admired the bow on the package before unwrapping the holiday gift.
+bow,1,24,He adjusted the bow on his tuxedo before the ceremony.
+calf,0,0,The calf followed the herd across the field to the barn.
+calf,0,1,She fed the calf in the barn before the rest of the farm chores.
+calf,0,2,"A newborn calf wobbled in the field, staying close to the herd."
+calf,0,3,The calf was kept in the barn until it was strong enough for the field.
+calf,0,4,He carried feed to the barn where the calf and the herd waited.
+calf,0,5,The farm had a new calf born to the prize cow in the herd.
+calf,0,6,The calf ran through the field and rejoined the herd near the barn.
+calf,0,7,She checked on the calf in the barn each morning before feeding the herd.
+calf,0,8,The calf grazed in the field alongside the rest of the farm herd.
+calf,0,9,He moved the calf from the barn to the field with the herd.
+calf,0,10,The farm's youngest calf was hand-fed in the barn twice a day.
+calf,0,11,A calf separated from the herd was found near the barn in the back field.
+calf,0,12,She mixed the calf's feed in the barn while the herd grazed in the field.
+calf,0,13,The calf was the smallest in the herd but thrived on the farm.
+calf,0,14,He led the calf and the herd from the field into the barn for the night.
+calf,0,15,The farm raised each calf alongside the herd in the open field.
+calf,0,16,The calf needed extra feed to keep up with the herd on the farm.
+calf,0,17,She found the calf sheltering in the barn after a storm swept the field.
+calf,0,18,The calf joined the herd in the field once it was weaned from barn feed.
+calf,0,19,The farm veterinarian examined the calf in the barn while the herd waited.
+calf,0,20,He opened the barn door and the calf ran to the herd in the field.
+calf,0,21,The calf's feed was measured carefully by the farm manager each day.
+calf,0,22,A healthy calf was born on the farm and quickly joined the herd.
+calf,0,23,"The calf lay in the barn, resting before returning to the field with the herd."
+calf,0,24,She watched the calf play in the field as the herd grazed on the farm.
+calf,1,0,He pulled his calf muscle during the run and felt immediate pain.
+calf,1,1,The calf strain required weeks of recovery before he could jog again.
+calf,1,2,She stretched her calf to ease the muscle pain after the workout.
+calf,1,3,The pain in his calf was caused by a strained muscle in his leg.
+calf,1,4,"Her calf muscle was tight, and the strain caused lingering pain."
+calf,1,5,Recovery from the calf injury involved daily stretching and rest for the leg.
+calf,1,6,The calf strain sent a sharp pain down his leg during the sprint.
+calf,1,7,She iced her calf to reduce the muscle pain and speed recovery.
+calf,1,8,The pain in her calf muscle worsened when she tried to use the leg.
+calf,1,9,He rested his leg after the calf strain to ensure a full recovery.
+calf,1,10,The calf muscle on his right leg was sore after the strain.
+calf,1,11,"Recovery from the calf injury was slow, with pain lingering for weeks."
+calf,1,12,She felt a pop in her calf and knew the muscle had strained.
+calf,1,13,The pain in his calf eased after consistent recovery exercises.
+calf,1,14,The strain in her calf made every step painful on that leg.
+calf,1,15,He wrapped his calf with a bandage to support the strained muscle.
+calf,1,16,The calf muscle in his leg ached with pain during recovery.
+calf,1,17,She visited the clinic for the calf strain and began a recovery plan.
+calf,1,18,The pain radiated from his calf up through the leg after the muscle strain.
+calf,1,19,Recovery from a calf muscle strain takes patience and proper rest.
+calf,1,20,He felt a sharp pain in his calf when the leg muscle cramped.
+calf,1,21,The calf strain limited her leg movement and caused constant pain.
+calf,1,22,She began physical therapy for the calf muscle during recovery.
+calf,1,23,The pain in his calf lessened as the muscle strain healed.
+calf,1,24,His leg buckled when the calf strain sent a jolt of pain through the muscle.
+charge,0,0,The charge on the bill was higher than the expected amount.
+charge,0,1,She disputed the charge because the receipt showed a different payment.
+charge,0,2,"A service charge was added to the bill, increasing the total amount."
+charge,0,3,He reviewed the charge on the receipt before making the payment.
+charge,0,4,The charge for the fee was listed separately on the bill.
+charge,0,5,She noticed an extra charge on the payment receipt for the wrong amount.
+charge,0,6,The bill included a charge that wasn't authorized in the original payment.
+charge,0,7,He called about the charge and was told the fee would be refunded.
+charge,0,8,The charge appeared on her bill after the payment amount was processed.
+charge,0,9,The receipt showed a charge for a fee she had already paid.
+charge,0,10,He questioned the charge because the amount on the bill was incorrect.
+charge,0,11,"The payment was made, but an additional charge appeared on the receipt."
+charge,0,12,A late charge was applied to the bill because the payment was overdue.
+charge,0,13,"The receipt confirmed the charge, showing the full payment amount."
+charge,0,14,He paid the charge on the bill and kept the receipt for his records.
+charge,0,15,An unauthorized charge on the payment statement raised the bill amount.
+charge,0,16,She asked for a receipt after disputing the charge on her bill.
+charge,0,17,The amount of the charge was deducted from his account as a fee.
+charge,0,18,The bill reflected the charge after the payment was processed and a receipt issued.
+charge,0,19,He was surprised by the charge amount when he opened the bill.
+charge,0,20,The fee charge was listed on the receipt but not on the original bill.
+charge,0,21,She made the payment to cover the charge and kept the receipt.
+charge,0,22,The charge on the bill was split into two payments of equal amount.
+charge,0,23,He verified the charge amount on the receipt before paying the bill.
+charge,0,24,There was a sudden charge on my credit card statement.
+charge,1,0,The charge against the defendant was presented during the trial.
+charge,1,1,The judge reviewed the charge before allowing the trial to proceed.
+charge,1,2,A new charge was added to the case based on additional evidence.
+charge,1,3,"The claim was dismissed, but the original charge remained for trial."
+charge,1,4,Evidence presented during the trial supported the charge in the case.
+charge,1,5,The judge reduced the charge after reviewing the evidence at trial.
+charge,1,6,"A serious charge was filed in the case, and the trial date was set."
+charge,1,7,The evidence was insufficient to sustain the charge at trial.
+charge,1,8,The judge instructed the jury on the charge before the trial concluded.
+charge,1,9,A formal charge was brought in the case after the claim was verified.
+charge,1,10,The trial began with the prosecution presenting the charge and key evidence.
+charge,1,11,The judge dismissed the charge due to lack of evidence in the case.
+charge,1,12,A separate charge was filed after new evidence emerged during the trial.
+charge,1,13,The claim led to a formal charge that was argued at trial.
+charge,1,14,Evidence gathered during the investigation supported every charge in the case.
+charge,1,15,The judge considered the charge carefully before rendering a verdict at trial.
+charge,1,16,"The charge was the most serious in the case, with evidence strongly contested."
+charge,1,17,The trial focused on whether the charge could be proven with available evidence.
+charge,1,18,A reduced charge was offered by the prosecution during the trial proceedings.
+charge,1,19,The judge explained the charge to the jury before they reviewed the evidence.
+charge,1,20,The case hinged on a single charge supported by physical evidence.
+charge,1,21,The claim was upgraded to a criminal charge once evidence was presented.
+charge,1,22,The trial lasted weeks as the charge and evidence were debated.
+charge,1,23,The judge allowed the charge to stand after examining the case evidence.
+charge,1,24,New evidence led to a charge being added to the ongoing trial.
+check,0,0,She wrote a check and deposited it into her bank account.
+check,0,1,The check required a signature before the teller could process it.
+check,0,2,He took the check to the bank teller for deposit into his account.
+check,0,3,The teller verified the check signature before accepting the deposit.
+check,0,4,She signed the check and handed it to the bank teller.
+check,0,5,The check was made out for the full account balance at the bank.
+check,0,6,He endorsed the check with his signature for the deposit.
+check,0,7,The bank teller processed the check and credited the account.
+check,0,8,A check deposit at the bank requires a valid signature.
+check,0,9,She presented the check to the teller and confirmed her account number.
+check,0,10,The check bounced because there were insufficient funds in the account.
+check,0,11,He wrote a check to the bank and included his signature on the back.
+check,0,12,The teller asked for identification before processing the check deposit.
+check,0,13,She deposited the check into her account at the bank branch.
+check,0,14,The check needed a second signature before the bank would accept it.
+check,0,15,He handed the check to the teller for deposit into his savings account.
+check,0,16,The bank held the check for three days before releasing the deposit.
+check,0,17,She signed the check and noted the account number on the memo line.
+check,0,18,The teller confirmed the check deposit and printed a receipt.
+check,0,19,A personal check from the bank required his signature on the front.
+check,0,20,He deposited the check into the account using the bank's mobile app.
+check,0,21,The check was returned because the signature didn't match the account.
+check,0,22,She asked the teller how long the check deposit would take.
+check,0,23,The bank processed the check after verifying the signature and account.
+check,0,24,He cashed the check at the bank teller window instead of making a deposit.
+check,1,0,She performed a check to verify the details on the form.
+check,1,1,The inspector ran a check on the form and flagged missing details.
+check,1,2,He conducted a thorough check to review every item on the form.
+check,1,3,A routine check revealed errors in the form details that needed correction.
+check,1,4,She did a final check to verify the form before submission.
+check,1,5,The check involved a full review of all the details on the form.
+check,1,6,He used the check to inspect the form for accuracy and completeness.
+check,1,7,A quality check confirmed that the details on the form were correct.
+check,1,8,She asked for a check of the form to verify the details were up to date.
+check,1,9,The compliance team ran a check to review the form's details.
+check,1,10,He made a check to inspect the form and verify every entry.
+check,1,11,"A background check was completed, and the details were added to the form."
+check,1,12,She scheduled a check to review the form before the deadline.
+check,1,13,The check revealed that the form was missing critical details.
+check,1,14,He completed the check and verified the form was ready for review.
+check,1,15,A periodic check is required to inspect the details on every active form.
+check,1,16,She ran a quick check to verify the form details matched the records.
+check,1,17,The review check confirmed the form was accurate and complete.
+check,1,18,He flagged the form for a check after noticing incorrect details.
+check,1,19,A spot check of the form verified that all details had been entered.
+check,1,20,She performed the check and signed off on the form after her review.
+check,1,21,The check was standard procedure: inspect the form and verify details.
+check,1,22,He was asked to check the form and review the details one more time.
+check,1,23,A final check ensured the form details were correct before filing.
+check,1,24,She verified the form during the check and approved all the details.
+chest,0,0,He went to the clinic with chest pain and difficulty breathing.
+chest,0,1,The doctor examined his chest and listened to his lungs.
+chest,0,2,She felt a sharp pain in her chest and had trouble breathing.
+chest,0,3,The clinic ran tests on his chest after the doctor heard abnormal lung sounds.
+chest,0,4,"Chest pain can indicate lung issues, so the doctor ordered a scan."
+chest,0,5,He struggled with breathing and visited the clinic for a chest examination.
+chest,0,6,The doctor pressed on his chest to check for pain near the lungs.
+chest,0,7,She went to the clinic because the chest pain affected her breathing.
+chest,0,8,The doctor told him the chest pain was related to his lungs.
+chest,0,9,He experienced chest tightness and shallow breathing at the clinic.
+chest,0,10,The clinic's doctor diagnosed the chest pain as a respiratory issue.
+chest,0,11,She described the chest pain and breathing difficulty to the doctor.
+chest,0,12,The doctor ordered an X-ray of his chest to examine the lungs.
+chest,0,13,He visited the clinic when the chest pain and breathing problems persisted.
+chest,0,14,The doctor confirmed that the chest pain was not related to the lungs.
+chest,0,15,She was treated at the clinic for chest pain that worsened with deep breathing.
+chest,0,16,The doctor monitored his chest while he practiced controlled breathing.
+chest,0,17,The clinic recommended follow-up after his chest and lung examination.
+chest,0,18,Chest pain and labored breathing brought him to the doctor immediately.
+chest,0,19,She told the doctor the chest pain started suddenly and affected her breathing.
+chest,0,20,The doctor at the clinic listened carefully to her chest and lungs.
+chest,0,21,He left the clinic with medication for the chest pain and breathing issues.
+chest,0,22,The doctor explained that chest pain with breathing trouble needed urgent care.
+chest,0,23,She returned to the clinic when the chest discomfort and lung pain returned.
+chest,0,24,"The doctor at the clinic reassured him that the chest pain was muscular, not lung-related."
+chest,1,0,She opened the chest in the closet and found old photographs inside.
+chest,1,1,The chest had a heavy lid and a lock that hadn't been opened in years.
+chest,1,2,"He stored the items in the chest, placing them in the top drawer."
+chest,1,3,The chest in the closet had a broken lock and a loose lid.
+chest,1,4,She lifted the lid of the chest and rummaged through the box inside.
+chest,1,5,The old chest had a drawer at the bottom and a lock on the front.
+chest,1,6,He found the chest tucked in the closet with its lid closed tight.
+chest,1,7,"The lock on the chest was rusted, and the lid was stuck."
+chest,1,8,She organized the closet and placed the box inside the chest drawer.
+chest,1,9,"The chest's lid creaked open, revealing a drawer full of keepsakes."
+chest,1,10,He carried the chest out of the closet and checked the lock.
+chest,1,11,"The wooden chest had a carved lid, a hidden drawer, and a brass lock."
+chest,1,12,She stored the box in the chest and slid the drawer shut.
+chest,1,13,The chest in the hallway closet served as both storage and a seat.
+chest,1,14,He opened the lid of the chest and found the drawer empty.
+chest,1,15,The lock on the antique chest matched the one on the closet door.
+chest,1,16,She lifted the chest lid and tucked the box into the drawer.
+chest,1,17,The closet chest had a combination lock and a hinged lid.
+chest,1,18,He replaced the lock on the chest and organized the drawer inside.
+chest,1,19,"The chest's drawer was jammed, and the lid wouldn't close properly."
+chest,1,20,She discovered a chest in the back of the closet with a working lock.
+chest,1,21,"The chest had a false bottom beneath the drawer, hidden under the lid."
+chest,1,22,"He put the valuables in the chest, locked it, and stored it in the closet."
+chest,1,23,The lid of the chest was propped open while she emptied the drawer.
+chest,1,24,The lock on the chest kept everything secure inside the closet.
+club,0,0,The club held a meeting for all its members last Thursday.
+club,0,1,She signed up as a new member and attended the club event.
+club,0,2,The club's leader organized the next event through the newsletter.
+club,0,3,Every member of the club received the newsletter before the meeting.
+club,0,4,The club hosted a charity event that attracted new members.
+club,0,5,The leader of the club opened the meeting with a brief update.
+club,0,6,The newsletter announced the club's upcoming event schedule.
+club,0,7,New members were welcomed to the club at the monthly meeting.
+club,0,8,The club leader sent a newsletter inviting members to the next event.
+club,0,9,The meeting was the club's most well-attended event of the year.
+club,0,10,She became the club leader after the members voted at the last meeting.
+club,0,11,The newsletter highlighted the club's most successful event this season.
+club,0,12,Club members gathered for a meeting to plan the annual event.
+club,0,13,"The leader addressed the club at the event, thanking the members."
+club,0,14,The meeting agenda was published in the club newsletter for members.
+club,0,15,New members joined the club after reading about the event in the newsletter.
+club,0,16,The club's holiday event brought together members from every chapter.
+club,0,17,The leader of the club proposed changes during the general meeting.
+club,0,18,The newsletter was the main way the club communicated with its members.
+club,0,19,Every club event was planned by the members at the monthly meeting.
+club,0,20,She read about the club in the newsletter and became a member.
+club,0,21,The meeting room was packed with club members before the big event.
+club,0,22,The leader reminded the club members about the event via the newsletter.
+club,0,23,The club's annual event requires every member to attend a planning meeting.
+club,0,24,The newsletter reported that the club had gained fifty new members since the last event.
+club,1,0,He gripped the handle of the club and took a powerful swing.
+club,1,1,The club was used as a weapon during ancient combat training.
+club,1,2,"She practiced her swing with the club, aiming at the training target."
+club,1,3,The handle of the club was wrapped in leather for a better grip.
+club,1,4,The club struck the target with a loud crack after a hard swing.
+club,1,5,"During training, he learned to swing the club at a moving target."
+club,1,6,The weapon was a heavy wooden club with a reinforced handle.
+club,1,7,She adjusted her grip on the handle before each club swing.
+club,1,8,The training exercise involved swinging the club at a padded target.
+club,1,9,The handle of the club splintered after too many swings during training.
+club,1,10,The club was a simple but effective weapon for close-range combat.
+club,1,11,His swing with the club missed the target during practice.
+club,1,12,The training instructor demonstrated the proper swing with a weighted club.
+club,1,13,"She swung the club hard, and it hit the target squarely."
+club,1,14,The club's handle was carved from a single piece of hardwood.
+club,1,15,He practiced his swing by hitting the target with the club repeatedly.
+club,1,16,The weapon was a short club with a thick handle designed for training.
+club,1,17,The swing of the club generated enough force to shatter the target.
+club,1,18,She held the club by the handle and began her training routine.
+club,1,19,The target was dented from repeated club swings during practice.
+club,1,20,He crafted the club as a training weapon with a sturdy handle.
+club,1,21,The club's handle was ergonomically designed for a better swing.
+club,1,22,Training with the club improved his accuracy against the target.
+club,1,23,"She swung the club in an arc, its handle spinning in her grip."
+club,1,24,The target absorbed the impact of each club swing during training.
+court,0,0,The court was silent as the judge delivered the verdict.
+court,0,1,Her lawyer filed an appeal after the court reached its verdict.
+court,0,2,The trial lasted three weeks before the court delivered a verdict.
+court,0,3,The judge ordered the court to recess before the verdict was announced.
+court,0,4,A lawyer presented closing arguments to the court before the trial ended.
+court,0,5,The court's verdict was appealed by the defendant's lawyer.
+court,0,6,"The court found the defendant guilty, and the lawyer prepared an appeal."
+court,0,7,The trial proceeded in court under the watchful eye of the judge.
+court,0,8,A verdict of not guilty was reached by the court after the trial.
+court,0,9,The lawyer asked the judge for more time to prepare for the court trial.
+court,0,10,"The appeal was denied, and the court upheld the original verdict."
+court,0,11,The judge reminded the jury of their duty before the court verdict.
+court,0,12,The court scheduled the trial after the lawyer submitted all documents.
+court,0,13,A landmark verdict came from the court following a lengthy trial.
+court,0,14,The lawyer argued the case in court before the judge and jury.
+court,0,15,The court's verdict was announced after the trial concluded.
+court,0,16,The judge allowed the appeal to be heard by a higher court.
+court,0,17,The trial in court was the most publicized case the judge had seen.
+court,0,18,A verdict was delayed as the court waited for the lawyer's appeal.
+court,0,19,The judge addressed the court before beginning the trial proceedings.
+court,0,20,The lawyer advised against an appeal after the court's clear verdict.
+court,0,21,The court trial revealed evidence that influenced the verdict.
+court,0,22,"The judge signed the verdict, and the court adjourned the trial."
+court,0,23,An appeal was filed in court by the lawyer after the trial verdict.
+court,0,24,The judge ordered order in the court immediately.
+court,1,0,She stepped onto the court and practiced her serve before the match.
+court,1,1,The tennis court was freshly resurfaced for the championship match.
+court,1,2,His serve landed just inside the court line during the match.
+court,1,3,She dominated the tennis match with powerful serves across the court.
+court,1,4,The court was packed with fans watching the tennis match unfold.
+court,1,5,He practiced his serve on the court before the match started.
+court,1,6,The tennis court was busy all afternoon with back-to-back matches.
+court,1,7,Her serve won the match point on the far side of the court.
+court,1,8,The court surface affected the speed of the serve during the match.
+court,1,9,She ran to the other end of the court to return the serve in the match.
+court,1,10,The tennis match ended after a strong serve that crossed the court.
+court,1,11,He booked the court for an hour to practice his serve before the match.
+court,1,12,"The match was played on a clay court, which slowed the serve."
+court,1,13,"She aced the serve on match point, winning the tennis set on the court."
+court,1,14,The court was slippery after the rain delayed the tennis match.
+court,1,15,His serve was too fast for the opponent on the other side of the court.
+court,1,16,The tennis match went to a tiebreak with both players serving well on the court.
+court,1,17,She walked onto the court confidently before the biggest match of her career.
+court,1,18,The serve hit the net and fell short of the court line during the match.
+court,1,19,He trained on the court daily to improve his serve for the next match.
+court,1,20,The tennis court was reserved for the championship match all weekend.
+court,1,21,Her serve was the strongest weapon in the match on the outdoor court.
+court,1,22,The court umpire called the serve in during the deciding match point.
+court,1,23,He served an ace on the court to win the tennis match outright.
+court,1,24,The match on the center court drew the biggest crowd of the tennis season.
+crane,0,0,"A crane stood gracefully in the marsh, scanning for fish."
+crane,0,1,The crane built its nest among the tall wetland reeds.
+crane,0,2,A solitary crane waded through the shallow marsh at dawn.
+crane,0,3,The crane spread its wings and took flight over the wetland.
+crane,0,4,This species of crane returns to the same nest every year.
+crane,0,5,A crane picked its way delicately through the wetland grasses.
+crane,0,6,The crane's nest was hidden among the thick wetland vegetation.
+crane,0,7,We spotted a crane feeding near its nest in the marsh.
+crane,0,8,The crane's migration route spans thousands of miles each year.
+crane,0,9,A young crane followed the flock across the vast wetland.
+crane,0,10,The marsh echoed with the calls of a crane looking for its flock.
+crane,0,11,Conservation efforts have helped this crane species nest successfully in the wetland.
+crane,0,12,"A crane took off from the marsh, joining the flock overhead."
+crane,0,13,Binoculars revealed a crane standing by its nest in the distant marsh.
+crane,0,14,"Every spring, the crane returns from migration to breed in the wetland."
+crane,0,15,The crane carefully arranged sticks in its nest at the edge of the marsh.
+crane,0,16,Volunteers counted each crane in the flock during the annual wetland survey.
+crane,0,17,A beautiful crane flew over the calm lake.
+crane,0,18,The tall crane waded slowly into the shallow water.
+crane,0,19,We watched the white crane searching for fish.
+crane,0,20,A crane built its nest near the river bank.
+crane,0,21,"The crane stood perfectly still, waiting for its prey."
+crane,0,22,An elegant crane took flight at sunrise.
+crane,0,23,The wildlife photographer captured a shot of the crane.
+crane,0,24,A crane is a symbol of longevity in many cultures.
+crane,1,0,The crane lifted the steel beam high above the construction site.
+crane,1,1,A crane operator carefully maneuvered the cable over the building.
+crane,1,2,The crane on the site was strong enough to lift forty tons.
+crane,1,3,Workers attached the cable to the crane before the next lift.
+crane,1,4,The crane swung the beam into position as the operator directed.
+crane,1,5,A massive crane dominated the skyline at the construction site.
+crane,1,6,The crane operator signaled that the cable was secure for the lift.
+crane,1,7,They brought in a taller crane to reach the top of the site.
+crane,1,8,The crane lowered the beam gently while the cable unwound.
+crane,1,9,Safety inspectors checked the crane and its cable before the lift.
+crane,1,10,"The crane at the site broke down, delaying the beam installation."
+crane,1,11,An experienced crane operator can position a beam within inches.
+crane,1,12,"The cable on the crane snapped, and the operator hit the emergency stop."
+crane,1,13,A tower crane was assembled on site to handle the heavy lift.
+crane,1,14,The crane hoisted the beam across the site while crews watched below.
+crane,1,15,The operator guided the crane through a tricky lift near power lines.
+crane,1,16,Each beam was transported by crane to the far end of the site.
+crane,1,17,The crane's cable groaned under the weight of the massive lift.
+crane,1,18,A new crane arrived on site to replace the one with the faulty cable.
+crane,1,19,The crane operator paused the lift when winds picked up at the site.
+crane,1,20,Workers secured the beam with bolts after the crane set it down.
+crane,1,21,"The crane pivoted slowly, its cable taut from the heavy lift."
+crane,1,22,"On a busy construction site, the crane never stops moving beams."
+crane,1,23,The operator checked the cable tension before each crane lift.
+crane,1,24,That crane on the site can lift a beam weighing over ten tons.
+current,0,0,The current in the river was too strong to swim against.
+current,0,1,She felt the current of the stream pulling her downstream.
+current,0,2,The tide created a powerful current along the river's mouth.
+current,0,3,He measured the water current to determine the flow speed.
+current,0,4,The current swept debris down the stream after the heavy rain.
+current,0,5,A strong current in the river made the water flow dangerously fast.
+current,0,6,"The tide changed direction, and the current in the river shifted."
+current,0,7,She paddled against the current as the stream's flow intensified.
+current,0,8,The current carried the boat swiftly down the river with the tide.
+current,0,9,He watched the water current flow over the rocks in the stream.
+current,0,10,The river current was gentle near the shore but strong in the center.
+current,0,11,"A tidal current pushed water upstream, reversing the river's normal flow."
+current,0,12,The stream's current was barely noticeable in the shallow water.
+current,0,13,She struggled against the current as the river's flow picked up.
+current,0,14,The current near the tide pools was stronger than expected.
+current,0,15,He tested the current speed before entering the river to swim.
+current,0,16,The flow of the current in the stream changed with the season.
+current,0,17,The tide pulled the current out to sea from the river mouth.
+current,0,18,She waded through the shallow current where the stream met the river.
+current,0,19,The water current was warm despite the fast flow in the river.
+current,0,20,He followed the current downstream to where the stream widened.
+current,0,21,The river's current was influenced by the incoming tide.
+current,0,22,A swift current flowed through the narrow stream into the wider river.
+current,0,23,The current pushed the kayak sideways in the river's fast-flowing water.
+current,0,24,She noticed the current shift when the tide turned in the river.
+current,1,0,The current situation was covered in today's news update.
+current,1,1,She checked the current news for an update on the present conditions.
+current,1,2,"The current moment demanded immediate attention, according to today's news."
+current,1,3,An update on the current state of affairs appeared in the news today.
+current,1,4,The current issue is the most pressing topic in the news at the moment.
+current,1,5,He wanted to know the current status and checked the news for an update.
+current,1,6,The present situation requires a current understanding of today's developments.
+current,1,7,"At the moment, the current news update is the most relevant information."
+current,1,8,She read the current report in today's news for the latest update.
+current,1,9,The current events in the news are shaping the present moment.
+current,1,10,He followed the current developments in the news for an update today.
+current,1,11,The current conditions were described in detail in today's news update.
+current,1,12,"At the present moment, the current news cycle is focused on the update."
+current,1,13,She wanted a current update on the news from today before the meeting.
+current,1,14,"The current landscape is constantly evolving, as today's news update shows."
+current,1,15,He monitored the current news for any update related to the present crisis.
+current,1,16,The news today provided a current update on the present situation.
+current,1,17,"At this moment, the current information in the news update is reliable."
+current,1,18,She referred to the current news to understand the present circumstances.
+current,1,19,The current update in today's news covered the most important topics.
+current,1,20,He summarized the current state of the news at this present moment.
+current,1,21,The current report in today's news offered a detailed update.
+current,1,22,She needed a current understanding of the present events covered in the news.
+current,1,23,The news offered a current perspective on the issues of the moment.
+current,1,24,Today's current update made the present situation much clearer.
+draft,0,0,A cold draft came through the window and chilled the hallway.
+draft,0,1,The draft from the window carried a cold breeze into the room.
+draft,0,2,She felt a draft of cold wind coming from the hallway window.
+draft,0,3,The hallway draft was caused by a gap in the window frame.
+draft,0,4,A cold draft swept through the hallway when the wind picked up outside.
+draft,0,5,He sealed the window to stop the cold draft from entering the hallway.
+draft,0,6,The breeze turned into a draft as the cold wind blew through the open window.
+draft,0,7,She shivered from the draft in the hallway near the broken window.
+draft,0,8,The draft brought cold air from the window into every room in the hallway.
+draft,0,9,A constant draft made the hallway near the window uncomfortably cold.
+draft,0,10,He noticed the draft when a cold breeze came through the window.
+draft,0,11,The draft from the hallway window made the room feel ten degrees colder.
+draft,0,12,She blocked the draft by placing a towel under the window in the hallway.
+draft,0,13,A cold draft of wind whistled through the crack in the window.
+draft,0,14,The hallway was frigid because of the draft from the leaky window.
+draft,0,15,He replaced the window seal to eliminate the cold draft in the hallway.
+draft,0,16,The breeze became a noticeable draft as it funneled down the hallway.
+draft,0,17,A cold draft chilled the hallway every time the wind blew against the window.
+draft,0,18,She hung a curtain over the window to reduce the cold draft.
+draft,0,19,The draft in the hallway was strongest near the old window frames.
+draft,0,20,He felt the draft on his neck as cold wind entered through the window.
+draft,0,21,The hallway draft worsened during the winter when the wind was strongest.
+draft,0,22,A sudden breeze created a draft that rattled the window in the hallway.
+draft,0,23,She complained about the cold draft coming from the window all winter.
+draft,0,24,The draft in the hallway was finally fixed by replacing the window.
+draft,1,0,She submitted the first draft of the document for review.
+draft,1,1,The editor returned the draft with notes on every version.
+draft,1,2,He revised the draft based on the review comments and notes.
+draft,1,3,The latest draft incorporated all edits from the previous version.
+draft,1,4,She compared the draft to the earlier version before the review.
+draft,1,5,The review of the draft revealed several issues noted in the margins.
+draft,1,6,He saved a new version of the draft after each round of edits.
+draft,1,7,The notes on the draft suggested major edits before the final review.
+draft,1,8,She printed the draft to review and add handwritten notes.
+draft,1,9,"The draft was the third version, reflecting edits from every review."
+draft,1,10,He edited the draft and sent the updated version for review.
+draft,1,11,The notes from the review guided the edits to the next draft.
+draft,1,12,She tracked every edit in the draft to maintain version control.
+draft,1,13,The draft review included detailed notes on what to edit next.
+draft,1,14,He finalized the draft after the last round of edits and review.
+draft,1,15,The version history showed how the draft evolved with each edit.
+draft,1,16,She added notes in the margin of the draft during her review.
+draft,1,17,The draft needed one more edit before the version was complete.
+draft,1,18,He reviewed the draft and left notes for the next round of edits.
+draft,1,19,The review committee approved the final draft and version.
+draft,1,20,She made edits to the draft based on the reviewer's notes.
+draft,1,21,The draft's latest version addressed every issue raised in the review.
+draft,1,22,He compiled all review notes into a single edit for the draft.
+draft,1,23,The notes on the draft outlined which version would be final.
+draft,1,24,She sent the edited draft for a last review before publishing the version.
+fair,0,0,The fair had booths and games set up all weekend for the crowd.
+fair,0,1,She entered the art contest at the annual festival fair.
+fair,0,2,The weekend fair featured a parade through the center of town.
+fair,0,3,Families gathered at the fair to enjoy the festival booths and rides.
+fair,0,4,The crowd at the fair was the largest in years.
+fair,0,5,He volunteered at a booth during the county fair over the weekend.
+fair,0,6,The fair's parade wound through the streets past cheering crowds.
+fair,0,7,She sold handmade crafts at a booth during the weekend fair.
+fair,0,8,The crowd lined up early to enter the annual harvest fair.
+fair,0,9,Every booth at the fair was decorated for the weekend festival.
+fair,0,10,He took his family to the fair for the parade and festival activities.
+fair,0,11,The fair attracted a huge crowd to the booths and attractions.
+fair,0,12,A weekend festival fair was organized with booths and entertainment.
+fair,0,13,She won a prize at the fair after visiting every booth.
+fair,0,14,The crowd cheered during the parade at the opening of the fair.
+fair,0,15,He walked past every booth at the fair during the weekend festival.
+fair,0,16,"The fair's weekend events included a parade, booths, and live music."
+fair,0,17,The crowd was enthusiastic at the fair despite the hot weekend weather.
+fair,0,18,She looked forward to the fair's annual parade and festival atmosphere.
+fair,0,19,"The booths at the fair offered food, games, and crafts for the crowd."
+fair,0,20,The weekend fair brought the entire community together for the festival.
+fair,0,21,He enjoyed the fair's parade more than any other weekend event.
+fair,0,22,A large crowd gathered at the fair to browse the festival booths.
+fair,0,23,The fair was the biggest weekend festival event of the year.
+fair,0,24,She took photographs of the parade and crowd at the weekend fair.
+fair,1,0,The judge ensured the trial was fair and based on justice and rights.
+fair,1,1,A fair decision by the court upheld ethics and legal rights.
+fair,1,2,She argued that the ruling was not fair and violated her rights.
+fair,1,3,The fair outcome depended on the court's commitment to justice.
+fair,1,4,He believed in fair treatment under the law and equal rights.
+fair,1,5,The decision was fair because the court considered all the evidence.
+fair,1,6,A fair justice system protects the rights of every individual.
+fair,1,7,The court aimed for a fair resolution guided by ethics.
+fair,1,8,She demanded a fair hearing to defend her rights in court.
+fair,1,9,The judge's fair ruling was praised for its commitment to justice.
+fair,1,10,A fair trial requires that rights and ethics are respected by the court.
+fair,1,11,He argued the decision was not fair and filed an appeal based on his rights.
+fair,1,12,The court delivered a fair verdict consistent with justice and ethics.
+fair,1,13,She advocated for fair treatment and equal rights in every decision.
+fair,1,14,The fair outcome reflected the court's dedication to justice.
+fair,1,15,A fair process in the justice system protects individual rights.
+fair,1,16,He expected a fair decision from the court based on ethics.
+fair,1,17,The ruling was considered fair by legal experts focused on rights.
+fair,1,18,"She filed a complaint, arguing the decision was not fair or ethical."
+fair,1,19,The court's fair approach balanced justice with individual rights.
+fair,1,20,A fair justice system requires ethical decision-making at every level.
+fair,1,21,He was satisfied with the fair outcome and the court's defense of rights.
+fair,1,22,"The ethics of the decision were debated, but the court deemed it fair."
+fair,1,23,"She pursued justice through the court system, demanding fair treatment."
+fair,1,24,The fair decision set a precedent for rights and ethics in future cases.
+fan,0,0,The fan's motor hummed quietly as the blade spun on the highest setting.
+fan,0,1,She adjusted the fan settings to increase the airflow in the room.
+fan,0,2,The fan blade wobbled because the motor was off balance.
+fan,0,3,The device was a ceiling fan with three blade speeds and adjustable settings.
+fan,0,4,Better airflow came from the fan after she cleaned the blade and motor.
+fan,0,5,He switched the fan settings to low to reduce the motor noise.
+fan,0,6,The fan blade needed replacing because the motor was straining.
+fan,0,7,The airflow from the fan improved when she changed the speed settings.
+fan,0,8,The fan device had a powerful motor and wide blades for better airflow.
+fan,0,9,"She turned the fan settings to high, and the blade whirred louder."
+fan,0,10,The motor of the fan was energy-efficient despite the strong airflow.
+fan,0,11,He installed a new fan with adjustable blade angles and digital settings.
+fan,0,12,The fan's airflow was weak because the motor was wearing out.
+fan,0,13,"The blade on the fan caught dust, reducing the motor's airflow efficiency."
+fan,0,14,She reset the fan device to its factory settings for optimal airflow.
+fan,0,15,The fan's motor made a clicking noise every time the blade rotated.
+fan,0,16,Adjusting the fan settings redirected the airflow across the room.
+fan,0,17,The fan device came with a remote to control the blade speed and motor.
+fan,0,18,He checked the fan motor because the blade had stopped despite the settings.
+fan,0,19,The airflow from the fan device was strongest when the motor ran at full speed.
+fan,0,20,The blade design of the fan maximized airflow with minimal motor strain.
+fan,0,21,She returned the fan because the motor failed after one day.
+fan,0,22,The fan settings allowed her to toggle the blade direction for seasonal airflow.
+fan,0,23,"The motor in the fan was silent, but the blade still produced strong airflow."
+fan,0,24,He purchased a fan with a brushless motor and five blade settings for better airflow.
+fan,1,0,The fan cheered loudly as the team took the field.
+fan,1,1,Every fan in the crowd showed their support with signs and chants.
+fan,1,2,She was a dedicated fan who attended every concert and team game.
+fan,1,3,A true fan stays loyal to the team even during a losing season.
+fan,1,4,The fan section of the crowd was the loudest during the team's rally.
+fan,1,5,He became a fan of the team after attending his first game in the crowd.
+fan,1,6,The support from every fan in the crowd gave the team energy.
+fan,1,7,She was a fan who followed the band from concert to concert.
+fan,1,8,A fan held up a banner in the crowd to support the team.
+fan,1,9,The concert was sold out because the band has a huge fan base.
+fan,1,10,Every fan in the crowd was on their feet showing support for the team.
+fan,1,11,She was a fan of the singer long before the concert tour began.
+fan,1,12,The team's biggest fan organized a support rally before the game.
+fan,1,13,His support as a fan meant traveling to every concert on the tour.
+fan,1,14,The fan base grew after the team's incredible season and concert celebrations.
+fan,1,15,The team rewarded their most dedicated fan with front-row seats.
+fan,1,16,Fan support in the crowd was overwhelming during the championship game.
+fan,1,17,She joined the fan club to show her support for the team.
+fan,1,18,A dedicated fan painted his face in the team colors.
+fan,1,19,Every true fan knows the history of this club.
+fan,1,20,The loudest fan in the stadium cheered non-stop.
+fan,1,21,A loyal fan never abandons their favorite team.
+fan,1,22,The singer waved at a screaming fan in the front row.
+fan,1,23,One lucky fan caught the game-winning baseball.
+fan,1,24,The disappointed fan left the arena early.
+figure,0,0,The figure in the equation represented the total number of items.
+figure,0,1,She calculated the figure by dividing the ratio into the value.
+figure,0,2,The graph displayed each figure clearly along the numbered axis.
+figure,0,3,He entered the figure into the equation and solved for the ratio.
+figure,0,4,The value shown in the figure matched the expected number.
+figure,0,5,She referenced the graph to confirm the figure was accurate.
+figure,0,6,The equation produced a figure that aligned with the expected value.
+figure,0,7,He plotted the ratio on the graph next to each figure.
+figure,0,8,The figure was calculated using the number from the equation.
+figure,0,9,She analyzed the graph and noted that the figure exceeded the expected value.
+figure,0,10,The equation required a specific figure to produce the correct ratio.
+figure,0,11,He checked the graph and confirmed the figure matched the number.
+figure,0,12,The figure on the graph was derived from the equation's value.
+figure,0,13,She presented the figure as part of the ratio analysis.
+figure,0,14,The equation's result was a figure consistent with the graphed value.
+figure,0,15,He updated the number in the equation to recalculate the figure.
+figure,0,16,The graph showed a declining figure in the ratio over time.
+figure,0,17,She found an error in the figure when she reviewed the equation.
+figure,0,18,The value of the figure was verified against the ratio on the graph.
+figure,0,19,He marked the figure on the graph and recorded the number.
+figure,0,20,The equation yielded a figure that helped explain the ratio.
+figure,0,21,She compared the figure to the value plotted on the graph.
+figure,0,22,The number in the equation influenced the figure shown on the graph.
+figure,0,23,He used the figure to calculate the final value and ratio.
+figure,0,24,The graph's figure was consistent with the equation's predicted number.
+figure,1,0,The figure was seen on stage and quickly became a headline celebrity.
+figure,1,1,She became a public figure after the interview went viral.
+figure,1,2,The celebrity figure attended the event surrounded by adoring fans.
+figure,1,3,A headline about the famous figure appeared in every major outlet.
+figure,1,4,The figure gave an interview that fans had been waiting for.
+figure,1,5,"He was a prominent figure on stage, captivating the audience."
+figure,1,6,The celebrity figure's headline appearance drew fans from everywhere.
+figure,1,7,She was a figure admired by fans long before her first interview.
+figure,1,8,The figure's stage presence made headlines across the country.
+figure,1,9,Fans gathered to see the famous figure after the interview aired.
+figure,1,10,The celebrity figure gave a headline-making statement on stage.
+figure,1,11,He became a key figure after fans rallied behind his interview.
+figure,1,12,"The figure walked onto the stage, and the fans erupted."
+figure,1,13,She was the most talked-about figure in the headlines all week.
+figure,1,14,The interview with the figure was the most-viewed by fans.
+figure,1,15,A public figure stepped onto the stage for a headline speech.
+figure,1,16,The celebrity figure's fans lined up hours before the event.
+figure,1,17,He was a beloved figure whose interviews always made headlines.
+figure,1,18,The figure made headlines after appearing on stage at the festival.
+figure,1,19,Fans recognized the figure immediately from the recent interview.
+figure,1,20,She was a cultural figure whose headline appearances drew massive crowds.
+figure,1,21,The figure addressed the fans from the stage during the interview.
+figure,1,22,He became the most recognizable figure in the headlines this year.
+figure,1,23,The celebrity figure's stage performance was the headline of the night.
+figure,1,24,Fans discussed the figure's interview for weeks after it aired.
+file,0,0,She saved the file in a folder organized by version number.
+file,0,1,The archive contained every file from the past five years.
+file,0,2,He opened the file and noticed it was an outdated draft.
+file,0,3,The index listed each file along with its current version.
+file,0,4,She moved the file to the archive folder after the final draft.
+file,0,5,The file was labeled with a version number and stored in the folder.
+file,0,6,The draft file was missing from the archive index.
+file,0,7,He updated the file to the latest version and saved it in the folder.
+file,0,8,The folder structure made it easy to find the right file and version.
+file,0,9,She checked the archive for the original draft of the file.
+file,0,10,Each file in the folder was tagged with a version and indexed.
+file,0,11,The draft of the file needed one more revision before archiving.
+file,0,12,He couldn't find the file because the index referenced an old folder.
+file,0,13,The archive included every version of the file since the first draft.
+file,0,14,She renamed the file and moved it to the correct folder.
+file,0,15,The index was updated whenever a new file version entered the archive.
+file,0,16,The file had gone through six drafts before the final version.
+file,0,17,He searched the folder for the archived draft of the file.
+file,0,18,The latest version of the file replaced the old one in the folder.
+file,0,19,She opened the archive and checked the index for the missing file.
+file,0,20,Every draft of the file was saved in a separate folder for version control.
+file,0,21,The file was added to the archive after the final draft was approved.
+file,0,22,He compared the current version of the file with the previous draft.
+file,0,23,She updated the file's version number and noted it in the draft log.
+file,0,24,He uploaded the large file to the shared cloud drive.
+file,1,0,He used a file to smooth the rough metal edge on the workbench.
+file,1,1,The file was kept in the garage alongside other repair tools.
+file,1,2,She ran the file along the blade to sharpen it on the workbench.
+file,1,3,The metal file removed burrs from the piece clamped to the workbench.
+file,1,4,He grabbed a file from the garage to sharpen the garden shears.
+file,1,5,"The file scraped against the metal, sending tiny shavings onto the workbench."
+file,1,6,She used the file to shape the metal during the repair.
+file,1,7,The file was worn down from years of use in the garage workshop.
+file,1,8,He clamped the metal to the workbench and began working with the file.
+file,1,9,A coarse file was needed to sharpen the dull metal edge.
+file,1,10,The repair required a fine file to smooth the metal surface.
+file,1,11,He picked up the file from the workbench and started to sharpen the tool.
+file,1,12,The file was the most-used tool on the garage workbench.
+file,1,13,She used a metal file to repair the damaged bracket on the workbench.
+file,1,14,The garage had every file size needed for metal sharpening and repair work.
+file,1,15,He dragged the file across the metal until it was smooth.
+file,1,16,The file sat on the workbench next to the other garage repair tools.
+file,1,17,"She needed to sharpen the chisel, so she grabbed a file from the garage."
+file,1,18,The file cut through the soft metal quickly on the workbench.
+file,1,19,A new file from the garage made the sharpening and repair work much easier.
+file,1,20,He stored the file on a hook above the workbench in the garage.
+file,1,21,The metal needed several passes with the file before the repair was complete.
+file,1,22,She set the file down on the workbench after finishing the metal work.
+file,1,23,The file was essential for every repair job in the garage.
+file,1,24,He used the file to sharpen the metal edges of the workbench bracket.
+foil,0,0,She tore a sheet of foil and wrapped the tray before putting it in the oven.
+foil,0,1,The baking tray was lined with foil to keep the kitchen clean.
+foil,0,2,He used a sheet of foil to wrap the food and place it on the tray.
+foil,0,3,The foil kept the heat inside the tray while baking in the kitchen.
+foil,0,4,She shaped the foil into a sheet to cover the baking tray.
+foil,0,5,The kitchen counter was covered in foil from wrapping the trays.
+foil,0,6,He placed the food on a sheet of foil and slid the tray into the oven.
+foil,0,7,The foil was too thin to wrap around the large baking tray.
+foil,0,8,She used a double sheet of foil on the tray for better heat retention.
+foil,0,9,The foil crinkled as she pressed it onto the tray in the kitchen.
+foil,0,10,He baked the dish on a tray covered with a sheet of foil.
+foil,0,11,The kitchen smelled wonderful after the foil-wrapped tray came out of the oven.
+foil,0,12,She peeled the foil off the tray carefully after baking.
+foil,0,13,The sheet of foil prevented the food from sticking to the tray.
+foil,0,14,He wrapped the leftovers in foil and placed the tray in the kitchen fridge.
+foil,0,15,The foil reflected the heat evenly across the baking tray.
+foil,0,16,She kept a roll of foil in the kitchen for wrapping trays.
+foil,0,17,The baking tray was cleaned easily thanks to the foil sheet.
+foil,0,18,He folded the foil sheet around the food on the kitchen tray.
+foil,0,19,The foil on the tray was scorched after being left in the oven.
+foil,0,20,She lined the tray with foil before preparing the meal in the kitchen.
+foil,0,21,The kitchen drawer held sheets of foil for wrapping and baking trays.
+foil,0,22,He removed the foil from the tray and served the food.
+foil,0,23,The sheet of foil made cleanup quick after using the kitchen tray.
+foil,0,24,She always kept foil handy in the kitchen for covering baking trays.
+foil,1,0,The detective managed to foil the thief's plot with quick thinking.
+foil,1,1,Security measures were put in place to foil the scheme before it succeeded.
+foil,1,2,She worked tirelessly to foil the plot and prevent the security breach.
+foil,1,3,The plan to foil the scheme required coordination with the security team.
+foil,1,4,He managed to foil the attempt and thwart the entire plot.
+foil,1,5,Security cameras helped foil the plot before it could be carried out.
+foil,1,6,She had to act fast to foil the scheme and prevent the breach.
+foil,1,7,The team worked to foil the security threat and thwart the plot.
+foil,1,8,He used intelligence reports to foil the scheme before it unfolded.
+foil,1,9,They managed to foil the plot thanks to enhanced security measures.
+foil,1,10,She devised a plan to foil the scheme and prevent any damage.
+foil,1,11,Security protocols were designed to foil any attempt to breach the system.
+foil,1,12,The officer's quick action helped foil the plot at the last moment.
+foil,1,13,He was determined to foil the scheme and protect the security of the operation.
+foil,1,14,She helped foil the attempt to thwart the organization's security.
+foil,1,15,The plan to foil the scheme involved surveillance and security coordination.
+foil,1,16,He managed to foil every plot that threatened the security perimeter.
+foil,1,17,Security improvements helped foil the scheme before it was executed.
+foil,1,18,The team's effort to foil the scheme strengthened overall security.
+foil,1,19,She anticipated the scheme and took steps to foil it in advance.
+foil,1,20,The security team's vigilance helped foil the dangerous plot.
+foil,1,21,The hero arrived just in time to foil the villain.
+foil,1,22,A clever plan was needed to foil the bank robbery.
+foil,1,23,The security system helped foil the intrusion.
+foil,1,24,They managed to foil the enemy attack completely.
+glasses,0,0,She put on her glasses and adjusted the lens for better vision.
+glasses,0,1,The glasses had a thin frame and lightweight optics for comfort.
+glasses,0,2,He cleaned the lens of his glasses with an eyewear cloth.
+glasses,0,3,Her glasses improved her vision thanks to the prescription lens.
+glasses,0,4,The frame of the glasses was stylish and suited her face perfectly.
+glasses,0,5,He picked up his glasses and checked the lens for scratches.
+glasses,0,6,The optician fitted the eyewear glasses with a new vision lens.
+glasses,0,7,She chose a wire frame for her new prescription glasses.
+glasses,0,8,The lens in the glasses was designed for improved distance vision.
+glasses,0,9,He adjusted the frame of his glasses so the lens sat correctly.
+glasses,0,10,Her glasses came with an anti-reflective lens and durable frame.
+glasses,0,11,The vision test determined the right lens strength for the glasses.
+glasses,0,12,"She wore her glasses every day, the frame barely visible on her face."
+glasses,0,13,"The frame of the glasses broke, but the lens was still intact."
+glasses,0,14,He ordered new glasses with a progressive lens for better vision.
+glasses,0,15,The eyewear shop offered a range of glasses with designer frames.
+glasses,0,16,Her glasses had a blue-light filter lens in a lightweight frame.
+glasses,0,17,The vision improvement from the new glasses was immediately noticeable.
+glasses,0,18,He replaced the scratched lens in his glasses at the optical shop.
+glasses,0,19,The frame of the eyewear glasses was made from titanium.
+glasses,0,20,She picked out new glasses with a round frame and tinted lens.
+glasses,0,21,The glasses corrected his vision with a specially ground lens.
+glasses,0,22,"He wore his glasses during work, the frame resting comfortably."
+glasses,0,23,The lens popped out of the glasses when the frame bent.
+glasses,0,24,She updated her vision prescription and got new glasses with a wider frame.
+glasses,1,0,She set the glasses on the table and poured water from the kitchen tap.
+glasses,1,1,The glasses were arranged on the table next to a cup for each guest.
+glasses,1,2,He filled the glasses with water and brought them to the kitchen table.
+glasses,1,3,The drink glasses on the table were ready for the kitchen dinner.
+glasses,1,4,She washed the glasses in the kitchen sink and placed them on the table.
+glasses,1,5,"The table was set with plates, cups, and glasses from the kitchen."
+glasses,1,6,He carried a tray of glasses from the kitchen to the dining table.
+glasses,1,7,The water glasses on the table sparkled under the kitchen light.
+glasses,1,8,She picked up the glasses from the table and returned to the kitchen.
+glasses,1,9,"The kitchen cupboard held all the glasses, cups, and plates."
+glasses,1,10,He placed the glasses on the table alongside the water pitcher.
+glasses,1,11,The glasses on the table were filled with ice water from the kitchen.
+glasses,1,12,She dried the glasses and put them back in the kitchen cupboard.
+glasses,1,13,"The table had enough glasses for every guest, plus extra in the kitchen."
+glasses,1,14,He stacked the glasses on the kitchen counter after clearing the table.
+glasses,1,15,The drink glasses from the table were washed and stored in the kitchen.
+glasses,1,16,She arranged glasses on the table for the party setup.
+glasses,1,17,The kitchen was full of glasses and cups waiting to go on the table.
+glasses,1,18,He poured the drink into the glasses on the table.
+glasses,1,19,The glasses on the table matched the rest of the kitchen set.
+glasses,1,20,She counted the glasses on the table before heading to the kitchen.
+glasses,1,21,The table was cleared of glasses and returned to the kitchen.
+glasses,1,22,He lined up the glasses on the kitchen counter beside the table.
+glasses,1,23,The water in the glasses on the table was cold from the kitchen fridge.
+glasses,1,24,She added the last glasses to the table and finished the kitchen prep.
+ground,0,0,The ground was soft with rich soil after the rain soaked the earth.
+ground,0,1,She walked across the dusty ground on the trail through the field.
+ground,0,2,The ground was covered in soil and earth after the field was tilled.
+ground,0,3,He dug into the ground and hit packed earth beneath the soil.
+ground,0,4,The trail wound across open ground covered in loose soil.
+ground,0,5,The ground was muddy with earth and soil from the recent rain.
+ground,0,6,She noticed the ground along the field trail was damp with loose soil.
+ground,0,7,The earth beneath the ground was dry and cracked across the field.
+ground,0,8,He tested the ground by pressing his boot into the soft soil.
+ground,0,9,The trail crossed uneven ground made of packed earth and soil.
+ground,0,10,"The ground was frozen solid, the earth and soil locked beneath the field."
+ground,0,11,"She planted seeds in the ground, turning the soil carefully."
+ground,0,12,The ground on the trail was littered with dust from the dry earth.
+ground,0,13,He leveled the ground in the field by spreading fresh soil.
+ground,0,14,The trail led across open ground with bare soil and dry earth.
+ground,0,15,The ground in the field was rich with organic soil and dark earth.
+ground,0,16,"She raked the ground smooth, clearing dust and debris from the soil."
+ground,0,17,The earth under the ground was compacted along the field trail.
+ground,0,18,He found artifacts buried in the ground beneath layers of soil.
+ground,0,19,The trail wound across high ground overlooking the field below.
+ground,0,20,The ground was soft enough to push a stake into the soil easily.
+ground,0,21,"She walked the trail, her boots sinking into the damp ground soil."
+ground,0,22,The earth on the ground was darker in the shaded field.
+ground,0,23,He cleared the ground and prepared the soil for the field planting.
+ground,0,24,The trail ended at a patch of open ground with loose earth and soil.
+ground,1,0,She ground the coffee beans and started the brew in the morning press.
+ground,1,1,The freshly ground coffee had a rich aroma when the filter was opened.
+ground,1,2,He ground the beans coarsely for the French press brew.
+ground,1,3,The ground coffee was added to the filter and brewed slowly.
+ground,1,4,She preferred finely ground beans for a stronger coffee brew.
+ground,1,5,The coffee was ground that morning and brewed in the kitchen press.
+ground,1,6,He poured hot water over the ground coffee in the filter.
+ground,1,7,The beans were ground to the perfect consistency for the brew.
+ground,1,8,She ground the coffee and let it steep in the press.
+ground,1,9,The filter held the ground coffee while the brew dripped through.
+ground,1,10,He adjusted the grinder until the beans were ground to his preference.
+ground,1,11,"The ground coffee filled the kitchen with a warm, rich aroma."
+ground,1,12,She filtered the ground beans and poured the fresh brew.
+ground,1,13,The coffee was ground fresh each morning for the best brew.
+ground,1,14,He replaced the filter and added fresh ground coffee for the next brew.
+ground,1,15,The ground beans were ready for the press by the time she arrived.
+ground,1,16,She ground the coffee beans twice for an extra fine brew.
+ground,1,17,The brew tasted better when the coffee was freshly ground.
+ground,1,18,He scooped the ground coffee into the filter and started the press.
+ground,1,19,The aroma of ground coffee beans filled the room during the brew.
+ground,1,20,She liked her coffee ground fine and brewed with a paper filter.
+ground,1,21,The ground coffee was too coarse for the espresso press.
+ground,1,22,He ground just enough beans for a single cup of brew.
+ground,1,23,The filter trapped the ground coffee while the brew flowed into the cup.
+ground,1,24,She ground the beans and prepared the press for the morning coffee brew.
+jam,0,0,She spread jam on her toast every morning for breakfast.
+jam,0,1,The jar of jam was made from fresh fruit picked last summer.
+jam,0,2,He opened a new jar of sweet jam for breakfast.
+jam,0,3,"The toast was perfectly golden, topped with fruit jam."
+jam,0,4,She made homemade jam using ripe fruit and plenty of sugar for a sweet spread.
+jam,0,5,A jar of jam sat on the breakfast table next to the toast.
+jam,0,6,"The fruit jam was too sweet for his taste, but she loved it on toast."
+jam,0,7,He packed a jar of jam and toast for his breakfast on the go.
+jam,0,8,The jam had a deep fruit flavor that was both sweet and tangy.
+jam,0,9,She bought three jars of jam at the breakfast market.
+jam,0,10,"The toast was warm, and the jam melted into it beautifully."
+jam,0,11,He preferred fruit jam over butter on his morning toast.
+jam,0,12,The jar of sweet jam was a gift from her neighbor's fruit harvest.
+jam,0,13,Breakfast wasn't complete without toast and a generous layer of jam.
+jam,0,14,"She tasted the jam and found it too sweet, even for fruit preserves."
+jam,0,15,The jar of jam was nearly empty after a week of toast breakfasts.
+jam,0,16,He tried a new fruit jam on his toast and loved the sweet flavor.
+jam,0,17,"The breakfast spread included toast, butter, and several jars of jam."
+jam,0,18,She stirred the fruit mixture as it thickened into jam.
+jam,0,19,The sweet aroma of jam filled the kitchen during breakfast.
+jam,0,20,He grabbed the jar of jam and a slice of toast before running out.
+jam,0,21,The jam was made with organic fruit and had a naturally sweet taste.
+jam,0,22,Toast with jam is her favorite quick breakfast option.
+jam,0,23,She labeled each jar of jam with the fruit and date it was made.
+jam,0,24,A sweet fruit jam paired perfectly with the crispy breakfast toast.
+jam,1,0,The jam on the highway caused a thirty-minute delay during rush hour.
+jam,1,1,An accident in the left lane created a massive jam on the highway.
+jam,1,2,The rush hour jam stretched for miles along the highway.
+jam,1,3,A lane closure on the highway turned the delay into a full traffic jam.
+jam,1,4,The jam was caused by an accident that blocked two lanes on the highway.
+jam,1,5,She was stuck in a jam on the highway during the morning rush.
+jam,1,6,The jam extended from the accident site to the highway exit.
+jam,1,7,Rush hour traffic turned into a jam as the lanes narrowed on the highway.
+jam,1,8,"The highway patrol cleared the accident, but the jam caused a long delay."
+jam,1,9,A construction delay in the right lane created a jam on the highway.
+jam,1,10,He avoided the rush hour jam by taking a side road off the highway.
+jam,1,11,The jam was worse than usual because of an accident on the main highway.
+jam,1,12,Every lane on the highway was packed during the rush hour jam.
+jam,1,13,An unexpected delay on the highway turned into a two-hour jam.
+jam,1,14,The accident caused a jam that spilled from the highway onto local roads.
+jam,1,15,She sat in the highway jam for an hour during the evening rush.
+jam,1,16,The lane merge on the highway always creates a jam during rush hour.
+jam,1,17,A jam formed on the highway after an accident in the center lane.
+jam,1,18,The delay from the highway jam made him late for his meeting.
+jam,1,19,Rush hour on the highway always means sitting in a jam.
+jam,1,20,The jam on the highway was caused by a multi-lane accident.
+jam,1,21,She checked her phone for delay updates while stuck in the highway jam.
+jam,1,22,The jam during rush hour blocked every lane on the highway for miles.
+jam,1,23,An accident ahead caused the highway to become a standstill jam.
+jam,1,24,The rush hour jam on the highway resulted in a significant delay.
+key,0,0,She turned the key in the lock and opened the front door.
+key,0,1,The key to the safe was kept on a metal ring in the drawer.
+key,0,2,He lost the key to the door and had to call a locksmith.
+key,0,3,The metal key didn't fit the lock on the old door.
+key,0,4,She slid the key off the ring and inserted it into the lock.
+key,0,5,The key turned smoothly in the door lock after he oiled it.
+key,0,6,A spare key to the safe hung on the metal ring by the door.
+key,0,7,He jiggled the key in the lock until the door finally opened.
+key,0,8,The key ring held a dozen metal keys for every lock in the building.
+key,0,9,She copied the door key and stored the duplicate in the safe.
+key,0,10,The metal key was too worn to work in the old lock.
+key,0,11,He kept the key to the safe on a separate ring from the door key.
+key,0,12,The key broke off in the lock when he tried to force the door open.
+key,0,13,A heavy metal key was needed for the antique safe lock.
+key,0,14,She added the new door key to her ring alongside the safe key.
+key,0,15,The lock wouldn't budge no matter how hard he turned the key.
+key,0,16,He found a key on the ground and checked if it fit the door lock.
+key,0,17,The safe required a metal key and a combination to open.
+key,0,18,She twisted the key in the door lock and stepped inside.
+key,0,19,"The key ring was full, but he still needed one more key for the new lock."
+key,0,20,A key hidden under the mat opened the back door.
+key,0,21,The metal key to the safe was engraved with a serial number.
+key,0,22,He handed her the key to the lock on the storage room door.
+key,0,23,"The ring broke, and the key to the door fell into a drain."
+key,0,24,She kept the safe key and the door key on separate metal rings.
+key,1,0,The song was written in the key of G with a beautiful melody.
+key,1,1,The composer chose a minor key to give the chord progression a somber tone.
+key,1,2,She practiced the scale in every key to improve her understanding of melody.
+key,1,3,The key change in the middle of the piece shifted the entire chord structure.
+key,1,4,The notes didn't sound right until she realized she was in the wrong key.
+key,1,5,A composer must decide the key of a piece before writing the melody.
+key,1,6,The chord sounded dissonant because it didn't belong in the key of the scale.
+key,1,7,He transposed the melody into a different key for the new arrangement.
+key,1,8,The key signature at the beginning of the notes tells the musician which scale to use.
+key,1,9,The composer's choice of key influenced every chord and melody in the symphony.
+key,1,10,She identified the key by analyzing the scale and the notes on the page.
+key,1,11,The key of the piece determined which chords sounded natural in the melody.
+key,1,12,He practiced the chord progression in every key across the scale.
+key,1,13,The melody soared when the composer modulated to a brighter key.
+key,1,14,The notes of the chord confirmed that the piece was in a major key.
+key,1,15,She learned to play the scale in every key as part of her training.
+key,1,16,"The composer shifted the key mid-piece, transforming the mood of the melody."
+key,1,17,The chord voicing changed as the key moved up the scale.
+key,1,18,He wrote the melody in one key and the harmony in another for contrast.
+key,1,19,The notes suggested a key change that the composer had subtly introduced.
+key,1,20,Every chord in the progression was built from the scale of the chosen key.
+key,1,21,The melody was simple but effective because the composer chose the right key.
+key,1,22,She transposed the notes to a higher key to match the chord voicing.
+key,1,23,The scale pattern repeated as the composer shifted to a new key.
+key,1,24,The key of the composition dictated the chord choices and melodic direction.
+match,0,0,The match was decided by a last-minute score from the home team.
+match,0,1,Our team advanced to the final match of the tournament.
+match,0,2,The referee blew the whistle to start the match on time.
+match,0,3,The final score of the match was three to one in favor of our team.
+match,0,4,Every match in the tournament is overseen by an experienced referee.
+match,0,5,The team celebrated after winning the match in the tournament final.
+match,0,6,The referee stopped the match after a foul near the halfway line.
+match,0,7,"The score was tied at the end of the match, sending it to overtime."
+match,0,8,Our team's performance in the match impressed everyone at the tournament.
+match,0,9,The final match drew the biggest crowd of the entire tournament.
+match,0,10,The referee awarded a penalty that changed the score of the match.
+match,0,11,The team prepared all week for the crucial match in the tournament.
+match,0,12,A controversial call by the referee affected the outcome of the match.
+match,0,13,The match ended with a decisive score that advanced the team to the final.
+match,0,14,"In the tournament semifinal, the match was intense from start to finish."
+match,0,15,The team won the match despite trailing in the score at halftime.
+match,0,16,The referee issued a red card during the heated final match.
+match,0,17,Our team's biggest match of the season is the tournament final.
+match,0,18,The score from the first match gave the team confidence for the tournament.
+match,0,19,The referee declared the match over after the final whistle.
+match,0,20,The team was knocked out of the tournament after a heartbreaking match.
+match,0,21,Fans cheered as the match score reached a tournament record.
+match,0,22,The match was postponed by the referee due to severe weather.
+match,0,23,"The team's defense held strong throughout the match, keeping a clean score."
+match,0,24,The tournament's final match will determine which team takes the championship.
+match,1,0,She struck a match and used the spark to light the campfire.
+match,1,1,The match burst into flame as he dragged it across the box.
+match,1,2,He lit a match and held it to the dry wood until smoke appeared.
+match,1,3,A single match was enough to start the campfire.
+match,1,4,The match produced a bright flame that lit up the darkness.
+match,1,5,She watched the smoke curl up from the spent match on the wood pile.
+match,1,6,The spark from the match caught the kindling and a flame grew quickly.
+match,1,7,He tossed the burnt match into the campfire with the rest of the wood.
+match,1,8,A gust of wind blew out the match before the flame could catch.
+match,1,9,"The match's spark was small, but it soon became a roaring campfire."
+match,1,10,She carefully held the match to the wood until smoke began to rise.
+match,1,11,The flame from the match flickered in the breeze near the campfire.
+match,1,12,He tried three times before the match finally produced a spark.
+match,1,13,"The match caught fire instantly, sending a thin trail of smoke upward."
+match,1,14,"She used the last match to light the campfire, coaxing a flame from the wood."
+match,1,15,The match flared with a spark and ignited the dry wood into flame.
+match,1,16,Smoke rose from the campfire after he lit it with a single match.
+match,1,17,He kept the match steady until the flame spread to the wood.
+match,1,18,The campfire needed another match because the first flame died in the smoke.
+match,1,19,A single match can produce enough spark and flame to ignite a pile of wood.
+match,1,20,She struck the match on the stone and a spark turned into a bright flame.
+match,1,21,"The wood was too damp, and the match went out in a puff of smoke."
+match,1,22,He cupped his hand around the match to protect the flame from the wind.
+match,1,23,The campfire was finally burning after the third match caught the wood.
+match,1,24,A spark flew off the match and ignited the dry smoke-ready kindling.
+mole,0,0,A mole had dug tunnels all through the garden soil.
+mole,0,1,The mole's burrow collapsed after the heavy rain soaked the soil.
+mole,0,2,We found mole mounds scattered across the garden every morning.
+mole,0,3,The mole tunneled through the soft soil under the garden fence.
+mole,0,4,A mole pushed up a fresh mound of soil near the burrow entrance.
+mole,0,5,The garden was riddled with mole tunnels and mounds.
+mole,0,6,The mole's burrow extended deep beneath the garden soil.
+mole,0,7,Every tunnel the mole digs creates a visible mound in the garden.
+mole,0,8,She tried to remove the mole that was destroying the garden soil.
+mole,0,9,The mole left a trail of mounds along the edge of the garden.
+mole,0,10,A mole can dig through several meters of soil in a single day.
+mole,0,11,The burrow network of the mole stretched across the entire garden.
+mole,0,12,Fresh mounds of soil indicated that a mole was active nearby.
+mole,0,13,The mole dug a tunnel that ran right under the garden path.
+mole,0,14,We spotted a mole emerging from its burrow in the garden soil.
+mole,0,15,"The garden suffered from mole damage, with mounds and tunnel collapses everywhere."
+mole,0,16,"A mole had been burrowing through the soil all night, leaving mounds behind."
+mole,0,17,The tunnel system suggested more than one mole lived in the garden.
+mole,0,18,"He filled the mole's burrow with soil, but a new mound appeared the next day."
+mole,0,19,The mole disrupted the garden by pushing soil into large mounds.
+mole,0,20,"A mole was spotted digging near the garden wall, its tunnel visible in the soil."
+mole,0,21,The burrow was lined with packed soil from the mole's digging.
+mole,0,22,"Each morning, new mounds in the garden revealed the mole's nighttime tunneling."
+mole,0,23,"The mole disappeared into its tunnel, leaving a mound of fresh garden soil."
+mole,0,24,Gardeners tried various methods to deter the mole from burrowing in the soil.
+mole,1,0,The mole inside the agency leaked classified information to the enemy.
+mole,1,1,Catching the mole required months of secret surveillance.
+mole,1,2,The agent suspected a mole was feeding code names to the opposition.
+mole,1,3,A mole compromised the entire mission before it even began.
+mole,1,4,The surveillance team was tasked with identifying the mole in the agency.
+mole,1,5,The mole passed secret documents using a coded communication system.
+mole,1,6,The mission failed because a mole had revealed the code to hostile agents.
+mole,1,7,An agent uncovered evidence of a mole during routine surveillance.
+mole,1,8,The mole had been operating in secret for over a decade.
+mole,1,9,The code was changed after the mole was discovered inside the agency.
+mole,1,10,Identifying the mole became the top priority of the secret mission.
+mole,1,11,The agent ran a counter-surveillance operation to flush out the mole.
+mole,1,12,A mole embedded in the mission relayed every code change to the enemy.
+mole,1,13,The secret identity of the mole was finally uncovered through surveillance.
+mole,1,14,The agency launched a mission to find the mole who had broken the code.
+mole,1,15,The mole used secret channels to pass mission details to a foreign agent.
+mole,1,16,Enhanced surveillance protocols were introduced after the mole was caught.
+mole,1,17,The agent discovered the mole had access to every secret code in the database.
+mole,1,18,A mole within the team jeopardized the entire covert mission.
+mole,1,19,The code was compromised by a mole operating under secret orders.
+mole,1,20,Surveillance footage helped the agent identify the mole inside the organization.
+mole,1,21,The mole was a trusted agent who had passed the strictest background checks.
+mole,1,22,A secret review revealed the mole had sabotaged the mission for years.
+mole,1,23,The mission to capture the mole involved undercover agents and constant surveillance.
+mole,1,24,The mole cracked the code and shared classified mission files in secret.
+nail,0,0,He drove the nail into the wood with a single swing of the hammer.
+nail,0,1,The nail held the frame together firmly after construction was complete.
+nail,0,2,She pulled a nail from the toolbox and hammered it into the wood.
+nail,0,3,A bent nail in the frame had to be replaced during construction.
+nail,0,4,"The hammer struck the nail squarely, sinking it into the wood."
+nail,0,5,The nail split the wood because the hammer blow was too hard.
+nail,0,6,Every nail in the frame was checked during the construction inspection.
+nail,0,7,She grabbed the hammer and drove each nail into the wood with precision.
+nail,0,8,A rusty nail stuck out of the old wood behind the frame.
+nail,0,9,He reached into the toolbox for a nail and the hammer.
+nail,0,10,The nail poked through the back of the wood frame during construction.
+nail,0,11,She used a hammer to remove the nail from the damaged wood.
+nail,0,12,He hammered the last nail and finished the wood frame for the project.
+nail,0,13,A loose nail in the construction frame posed a safety concern.
+nail,0,14,The toolbox was full of different nail sizes for the wood frame.
+nail,0,15,He bent the nail trying to hammer it into the hardwood frame.
+nail,0,16,The construction plans called for a nail every six inches along the wood frame.
+nail,0,17,She tapped the nail gently with the hammer to start it in the wood.
+nail,0,18,He pulled a nail from the toolbox and began framing the construction project.
+nail,0,19,A stray nail on the construction site punctured the sole of his boot.
+nail,0,20,The hammer rang loudly each time it struck a nail into the wood.
+nail,0,21,The carpenter hit the nail precisely with his hammer.
+nail,0,22,A rusty nail poked through the old wooden board.
+nail,0,23,She used a single nail to hang the heavy painting.
+nail,0,24,The iron nail bent when he struck it too hard.
+nail,1,0,A broken nail on her finger required a bandage to prevent infection.
+nail,1,1,The nail injury was treated at the clinic with a small bandage.
+nail,1,2,She applied red polish to each nail on her fingers carefully.
+nail,1,3,The doctor at the clinic examined the nail injury on her finger.
+nail,1,4,Her nail cracked and she wrapped a bandage around the finger.
+nail,1,5,The clinic recommended keeping the injured nail covered with a bandage.
+nail,1,6,She chipped a nail on her finger and touched up the polish.
+nail,1,7,"A nail injury can be painful, especially near the finger tip."
+nail,1,8,The nurse at the clinic applied a bandage to the damaged nail.
+nail,1,9,She removed the old polish from each nail before her clinic appointment.
+nail,1,10,The nail on her index finger was bruised from the injury.
+nail,1,11,A bandage protected the healing nail on her finger.
+nail,1,12,She visited the clinic after a nail injury left her finger swollen.
+nail,1,13,The nail polish she chose matched perfectly with her outfit.
+nail,1,14,The clinic treated the nail on her finger and applied a fresh bandage.
+nail,1,15,Her finger throbbed where the nail had sustained the injury.
+nail,1,16,The bandage on her finger covered a nail that had been torn.
+nail,1,17,An injury to the nail bed required a visit to the clinic.
+nail,1,18,She buffed each nail on her finger before applying the polish.
+nail,1,19,The clinic gave her instructions for caring for the nail injury at home.
+nail,1,20,"A finger nail injury can take weeks to heal, even with a bandage."
+nail,1,21,The bandage kept the injured nail on her finger clean and protected.
+nail,1,22,She painted her thumb nail red before the party.
+nail,1,23,He broke a nail while opening the package.
+nail,1,24,The manicure left her nail looking perfectly shiny.
+palm,0,0,She felt pain in the palm of her hand after the injury.
+palm,0,1,The doctor examined the palm and applied a bandage to the wound.
+palm,0,2,He burned the skin on his palm and winced at the pain.
+palm,0,3,The palm of her hand was wrapped in a bandage after the injury.
+palm,0,4,Pain shot through his palm when the injury reopened.
+palm,0,5,The skin on the palm of his hand was red and tender from the bandage.
+palm,0,6,She held out her palm and showed the doctor where the pain was.
+palm,0,7,The injury on the palm required stitches and a tight bandage.
+palm,0,8,"He rubbed the skin on his palm, trying to ease the lingering pain."
+palm,0,9,The bandage on her palm covered the injury from the previous day.
+palm,0,10,Pain in the palm of his hand made it hard to grip anything.
+palm,0,11,The skin on her palm blistered and needed a bandage for the injury.
+palm,0,12,"He opened his palm carefully, the pain from the hand injury still sharp."
+palm,0,13,The doctor cleaned the wound on his palm before wrapping it in a bandage.
+palm,0,14,She pressed her palm against the ice pack to relieve the pain.
+palm,0,15,The injury left a scar on the palm of her hand beneath the healed skin.
+palm,0,16,"He winced as the bandage was removed from his palm, the skin still raw."
+palm,0,17,The pain in her palm was a reminder of the hand injury from last week.
+palm,0,18,A splinter in the palm caused unexpected pain beneath the skin.
+palm,0,19,He applied a bandage to the palm of his hand to protect the injury.
+palm,0,20,The skin on her palm was irritated by the bandage material.
+palm,0,21,The palm injury caused pain that radiated up through his entire hand.
+palm,0,22,"She flexed her palm slowly, the pain from the skin injury fading."
+palm,0,23,The bandage was too tight on his palm and cut off circulation.
+palm,0,24,The pain from the palm injury kept her from using her hand for a week.
+palm,1,0,"The palm tree swayed gently, its broad leaves providing shade."
+palm,1,1,The roots of the palm dug deep into the sandy soil near the forest.
+palm,1,2,"She sat under the palm, enjoying the shade of its wide leaves."
+palm,1,3,The palm in the forest had tall roots that rose above the ground.
+palm,1,4,Sap dripped from the trunk of the palm as the leaves rustled above.
+palm,1,5,The shade of the tall palm was a welcome relief in the tropical forest.
+palm,1,6,"The palm's roots spread wide beneath the soil, anchoring the tree."
+palm,1,7,She collected leaves from the palm for the thatched roof of the shade shelter.
+palm,1,8,The forest clearing had a single palm with broad leaves offering shade.
+palm,1,9,The palm's roots were exposed where the soil had washed away.
+palm,1,10,Sap from the palm was used by locals for syrup and traditional medicine.
+palm,1,11,The leaves of the palm cast long shadows that created a cool shade.
+palm,1,12,He studied the roots of the palm growing at the edge of the forest.
+palm,1,13,The palm's large leaves caught rainwater and funneled it to the roots.
+palm,1,14,She tapped the palm for its sweet sap and rested in the shade.
+palm,1,15,The roots of the palm held firm even during strong tropical storms.
+palm,1,16,He cut a leaf from the palm and used it as a shade fan.
+palm,1,17,The palm tree's sap attracted insects that gathered near the forest floor.
+palm,1,18,The shade of the palm was the coolest spot along the forest trail.
+palm,1,19,She noticed sap leaking from the palm where the leaves joined the trunk.
+palm,1,20,The palm's deep roots drew water from far beneath the forest floor.
+palm,1,21,"He rested in the shade of a palm, watching the leaves sway overhead."
+palm,1,22,The roots of the palm were tangled with those of other forest trees.
+palm,1,23,A coconut fell from the tall palm on the beach.
+palm,1,24,The wind rustled the leaves of the tropical palm.
+plane,0,0,The plane taxied down the runway before the pilot began takeoff.
+plane,0,1,The pilot guided the plane to a smooth landing on the runway.
+plane,0,2,The plane's engine roared as it accelerated down the runway for flight.
+plane,0,3,"After a long flight, the plane made its landing at the destination runway."
+plane,0,4,The pilot announced that the plane would begin its landing approach soon.
+plane,0,5,The plane lifted off the runway as the engine reached full power.
+plane,0,6,A delay on the runway meant the plane's flight departed late.
+plane,0,7,The engine of the plane hummed steadily throughout the flight.
+plane,0,8,The pilot checked the plane's engine before taxiing to the runway.
+plane,0,9,The plane touched down on the runway for a perfect landing.
+plane,0,10,The flight was smooth until the plane encountered turbulence near landing.
+plane,0,11,The pilot steered the plane along the runway after landing.
+plane,0,12,The plane's engine was inspected before the next flight out.
+plane,0,13,"The landing was rough, and the plane bounced twice on the runway."
+plane,0,14,The pilot brought the plane in for landing despite strong crosswinds.
+plane,0,15,The plane waited on the runway while the engine warmed up for the flight.
+plane,0,16,"The engine failed mid-flight, and the pilot had to land the plane"
+plane,0,17,The plane picked up speed on the runway as the pilot prepared for flight.
+plane,0,18,"After landing, the plane taxied past the runway to the terminal gate."
+plane,0,19,The pilot announced the plane was beginning its descent for landing.
+plane,0,20,The flight lasted three hours before the plane landed on the main runway.
+plane,0,21,The plane's engine was replaced before the next scheduled flight.
+plane,0,22,The runway lights guided the plane during the nighttime landing.
+plane,0,23,The pilot started the plane's engine and waited for runway clearance.
+plane,0,24,The commercial plane landed safely on the runway.
+plane,1,0,The plane in the diagram was defined by two vectors and an axis.
+plane,1,1,The equation described a flat plane intersecting the grid.
+plane,1,2,A vector perpendicular to the plane determines its orientation in space.
+plane,1,3,The surface of the plane was divided into a coordinate grid.
+plane,1,4,He plotted the equation of the plane along the horizontal axis.
+plane,1,5,The plane extended infinitely across the grid in the textbook diagram.
+plane,1,6,A vector normal to the plane was used to solve the equation.
+plane,1,7,The plane's surface intersected the axis at the origin of the grid.
+plane,1,8,The equation of the plane was expressed in terms of vectors and axes.
+plane,1,9,Points on the grid that satisfy the equation all lie on the same plane.
+plane,1,10,The vector pointed away from the surface of the plane at a right angle.
+plane,1,11,She drew the plane on the grid and labeled each axis carefully.
+plane,1,12,The equation showed that the plane was tilted relative to the vertical axis.
+plane,1,13,Every point on the plane's surface can be described by a grid coordinate.
+plane,1,14,The vector defined the direction perpendicular to the plane's surface.
+plane,1,15,He used the equation to determine where the plane crossed the axis.
+plane,1,16,The grid helped visualize how the plane extended across the surface.
+plane,1,17,A plane in three-dimensional space is defined by a single vector equation.
+plane,1,18,The surface of the plane was flat and parallel to the horizontal axis.
+plane,1,19,She plotted the grid and sketched the plane defined by the equation.
+plane,1,20,The axis of symmetry lay exactly on the surface of the plane.
+plane,1,21,The equation placed the plane at an angle across the coordinate grid.
+plane,1,22,He calculated the vector components to find the plane's orientation.
+plane,1,23,The plane's surface was mapped onto a grid for easier visualization.
+plane,1,24,The intersection of the plane and the axis was found using the equation.
+port,0,0,The ship arrived at the port and docked near the main pier.
+port,0,1,Workers unloaded cargo from the ship at the port all morning.
+port,0,2,The port was busy with ships waiting to dock and unload cargo.
+port,0,3,High tide allowed the ship to navigate into the shallow port.
+port,0,4,The cargo was stacked on the pier after the ship reached port.
+port,0,5,The dock at the port was reinforced to handle the heavy cargo.
+port,0,6,A large ship pulled into the port just as the tide turned.
+port,0,7,The pier at the port extended far enough for three ships to dock.
+port,0,8,Cargo containers were loaded onto the ship at the port dock.
+port,0,9,The port authority regulated when each ship could approach the pier.
+port,0,10,The tide was too low for the ship to enter the port safely.
+port,0,11,Workers on the dock directed the cargo off the ship at the port.
+port,0,12,The pier was crowded with crew as the ship arrived at port.
+port,0,13,The port handles more cargo than any other dock in the region.
+port,0,14,The ship left the port at high tide with a full load of cargo.
+port,0,15,The dock at the port was damaged when the ship came in during rough tide.
+port,0,16,Cargo was inspected on the pier before leaving the port.
+port,0,17,The ship waited offshore until the tide allowed entry into the port.
+port,0,18,The port expanded its dock to accommodate larger cargo ships.
+port,0,19,"At the pier, the ship was loaded with cargo bound for a foreign port."
+port,0,20,The tide rose steadily as the ship approached the port dock.
+port,0,21,The cargo manifest was checked before the ship was cleared at the port.
+port,0,22,The dock workers at the port secured the ship to the pier.
+port,0,23,A cargo ship entered the port on the morning tide.
+port,0,24,The pier was the busiest section of the port when ships came to dock.
+port,1,0,She plugged the USB cable into the port on the router.
+port,1,1,The port on the laptop was too small for the adapter cable.
+port,1,2,He connected the cable to the socket port on the back of the router.
+port,1,3,The USB port on the adapter stopped working after heavy use.
+port,1,4,A new cable was needed because the port on the router was damaged.
+port,1,5,She inserted the adapter into the USB port and connected the cable.
+port,1,6,He checked every port on the device before replacing the cable.
+port,1,7,"The USB port on the adapter was loose, causing connection issues."
+port,1,8,She ran a cable from the router port to the socket on the wall.
+port,1,9,The port on the router supports both USB and Ethernet cables.
+port,1,10,He used an adapter to connect the old cable to the new port.
+port,1,11,The socket next to the USB port was designed for an auxiliary cable.
+port,1,12,"The router's main port was occupied, so she used the adapter."
+port,1,13,He plugged the cable into the wrong port on the router.
+port,1,14,The USB adapter fit snugly into the port on the side of the device.
+port,1,15,A damaged port on the router meant the cable wouldn't connect properly.
+port,1,16,She bought a new adapter because the port didn't fit her cable.
+port,1,17,The router has a dedicated port for the USB cable connection.
+port,1,18,He switched the cable to a different port on the adapter.
+port,1,19,"The port was blocked by dust, preventing the USB cable from seating."
+port,1,20,The USB port on the router was upgraded to support faster cable transfers.
+port,1,21,He tested each port on the adapter before connecting the cable.
+port,1,22,The cable fit the port on the router but not the socket on the adapter.
+port,1,23,The device has a specialized port for rapid charging.
+port,1,24,He inserted the cable into the correct data port.
+ring,0,0,She admired the gold ring with a diamond setting on her finger.
+ring,0,1,The jeweler showed us a ring with a delicate engraving inside the band.
+ring,0,2,He slid the diamond ring onto her finger during the proposal.
+ring,0,3,The gold ring was engraved with their initials by the jeweler.
+ring,0,4,"She wore the ring on her left finger, its diamond catching the light."
+ring,0,5,The jeweler crafted a custom gold ring with a personal engraving.
+ring,0,6,The ring had a diamond flanked by two smaller stones set in gold.
+ring,0,7,He noticed the engraving on the ring when the jeweler pointed it out.
+ring,0,8,The gold ring fit her finger perfectly after the jeweler resized it.
+ring,0,9,A diamond ring sparkled under the jeweler's display lights.
+ring,0,10,She took the ring off her finger to read the engraving inside.
+ring,0,11,The jeweler polished the gold ring until the diamond shone brilliantly.
+ring,0,12,"The ring was passed down through generations, its gold worn and engraving faded."
+ring,0,13,He chose a ring with a large diamond set in a gold band.
+ring,0,14,The jeweler offered to add an engraving inside the ring for free.
+ring,0,15,She twisted the gold ring on her finger nervously during the interview.
+ring,0,16,The diamond on the ring was examined under a loupe by the jeweler.
+ring,0,17,The engraving on the ring read a date and was set in gold.
+ring,0,18,The ring slipped off her finger because the jeweler had sized it wrong.
+ring,0,19,A gold ring with a small diamond makes for a timeless gift.
+ring,0,20,The jeweler recommended an engraving to personalize the ring.
+ring,0,21,She couldn't stop staring at the diamond ring on her finger.
+ring,0,22,"The ring's gold band was smooth, with an engraving hidden on the inside."
+ring,0,23,The jeweler set the diamond into the ring while they waited.
+ring,0,24,"He placed the ring on her finger, the gold warm against her skin."
+ring,1,0,The ring of the phone broke the silence in the office.
+ring,1,1,An alarm ring echoed through the hallway every morning at six.
+ring,1,2,The ring had a sharp tone that could be heard from every speaker.
+ring,1,3,The phone ring echoed through the empty room.
+ring,1,4,She adjusted the ring tone on her phone to a softer setting.
+ring,1,5,The alarm ring was so loud it echoed off every wall.
+ring,1,6,The ring from the speaker announced that the meeting was starting.
+ring,1,7,His phone ring had a distinct tone that everyone recognized.
+ring,1,8,The echo of the alarm ring lingered long after it stopped.
+ring,1,9,She changed the ring on her phone to a gentler tone.
+ring,1,10,A ring from the speaker startled everyone in the quiet room.
+ring,1,11,"The phone continued to ring, its tone echoing through the house."
+ring,1,12,The alarm ring filled the room and came out of every speaker.
+ring,1,13,He silenced the ring on his phone before the echo could spread.
+ring,1,14,The sharp ring tone from the speaker pierced the quiet.
+ring,1,15,The ring of the phone echoed across the open office.
+ring,1,16,She recognized the alarm ring by its distinctive tone.
+ring,1,17,The ring was barely audible over the echo from the speaker.
+ring,1,18,Every morning the alarm ring blared through the speaker with the same tone.
+ring,1,19,The phone ring had a metallic tone that produced an echo in the stairwell.
+ring,1,20,He turned down the ring volume on the speaker to reduce the echo.
+ring,1,21,The alarm ring had a high tone that echoed sharply.
+ring,1,22,The ring of the phone cut through the noise from the speaker.
+ring,1,23,She set a new ring tone so the echo would be less startling.
+ring,1,24,The ring from the alarm echoed through the speaker system all morning.
+row,0,0,Each row in the table contained data organized by column.
+row,0,1,She added a new row to the grid and filled in the data.
+row,0,2,The index pointed to the third row and second column of the table.
+row,0,3,Every row of data in the table was sorted by the index column.
+row,0,4,He highlighted the row in the grid where the data error appeared.
+row,0,5,She scrolled down to the last row in the index to check the data.
+row,0,6,Each row of the grid corresponded to a unique entry in the data table.
+row,0,7,The column headers described the data stored in each row.
+row,0,8,He inserted a row between two existing entries in the table.
+row,0,9,The data in the first row matched the index in the column header.
+row,0,10,She copied the row from one table and pasted it into the grid.
+row,0,11,The grid displayed each row of data with an index number.
+row,0,12,He deleted the empty row at the bottom of the data table.
+row,0,13,The table's row count increased every time new data was added.
+row,0,14,She sorted the data by the index column and checked each row.
+row,0,15,The grid aligned every row so the data matched across columns.
+row,0,16,Each row in the table had a unique index for referencing the data.
+row,0,17,He formatted the row to make the data easier to read in the table.
+row,0,18,She referenced a specific row and column to locate the data.
+row,0,19,The index identified every row in the table by its data entry.
+row,0,20,He merged two rows of the grid into one consolidated data row.
+row,0,21,The column widths were adjusted to fit the data in each row.
+row,0,22,She checked the row count in the table to verify all data was imported.
+row,0,23,The bottom row of the spreadsheet was highlighted.
+row,0,24,She deleted a blank row from the database.
+row,1,0,The row between the neighbors started over a dispute about the fence.
+row,1,1,Their row ended only after a sincere apology was offered.
+row,1,2,The argument escalated into a full-blown row with shouting on both sides.
+row,1,3,The neighbors had a row so loud that people across the street heard the shouting.
+row,1,4,The dispute led to a row that required an apology the next day.
+row,1,5,"He tried to avoid the row, but the argument with the neighbors grew heated."
+row,1,6,The row between them included shouting and accusations before the apology.
+row,1,7,Neighbors on the block recalled the row as the worst dispute of the year.
+row,1,8,"She apologized after the row, admitting the argument had gone too far."
+row,1,9,The row started as a simple dispute but turned into shouting between neighbors.
+row,1,10,An apology was the only way to end the row after such a bitter argument.
+row,1,11,"The neighbors' row could be heard from blocks away, full of shouts and accusations."
+row,1,12,The dispute between them caused a public row that embarrassed everyone.
+row,1,13,He regretted the row and offered an apology to settle the argument.
+row,1,14,The row involved shouting from both sides until the neighbors finally calmed down.
+row,1,15,The argument between neighbors turned into a row that lasted all evening.
+row,1,16,She demanded an apology after the row and the hurtful things said in the dispute.
+row,1,17,The row ended abruptly when one neighbor walked away from the argument.
+row,1,18,"The dispute was minor, but the row that followed involved shouting and tears."
+row,1,19,"After the row, both neighbors agreed that an apology was overdue."
+row,1,20,The argument started at the fence and became a row with shouting.
+row,1,21,The neighbors' ongoing dispute finally erupted into a loud row.
+row,1,22,He offered a quiet apology to end the row before the argument got worse.
+row,1,23,The row with the neighbors left everyone upset despite the eventual apology.
+row,1,24,The shouting during the row could be heard down the street as the argument grew.
+scale,0,0,The scale was calibrated to measure weight with high precision.
+scale,0,1,She placed the sample on the scale and recorded the weight in metric units.
+scale,0,2,The precision of the scale depends on proper calibration.
+scale,0,3,He checked the scale calibration before measuring the exact weight.
+scale,0,4,The scale displayed the weight in multiple units after calibration.
+scale,0,5,The precision scale could measure weight down to a fraction of a unit.
+scale,0,6,She adjusted the units on the scale to match the calibration standard.
+scale,0,7,The scale needed calibration to ensure the weight measurement was precise.
+scale,0,8,He used the scale to measure the weight of each sample with precision.
+scale,0,9,The units on the scale were set to grams for precise weight calibration.
+scale,0,10,The calibration of the scale affected the precision of every weight measurement.
+scale,0,11,She noted the weight on the scale and converted it to different units.
+scale,0,12,The scale's precision improved after the technician completed the calibration.
+scale,0,13,He measured the weight on the scale using standardized units.
+scale,0,14,The calibration certificate confirmed the scale's weight precision.
+scale,0,15,She reset the scale to zero before measuring the next weight.
+scale,0,16,The precision of the scale was verified against known calibration weights.
+scale,0,17,He placed the object on the scale and recorded the weight in the specified units.
+scale,0,18,The scale showed a weight discrepancy due to a calibration error.
+scale,0,19,She relied on the precision scale for accurate weight measurements in standard units.
+scale,0,20,The calibration process involves placing known weights on the scale for verification.
+scale,0,21,He measured the weight three times on the scale to check the precision.
+scale,0,22,The scale units were changed from pounds to kilograms after calibration.
+scale,0,23,The precision of the scale was critical for the weight measurements in the lab.
+scale,0,24,She completed the calibration and confirmed the scale was accurate to the unit.
+scale,1,0,The scale of the fish was shiny and iridescent in the sunlight.
+scale,1,1,She removed each scale from the fish before cooking it.
+scale,1,2,The fish's scale was attached near the gills and glistened when wet.
+scale,1,3,Every scale on the fish reflected light near the gills.
+scale,1,4,She scraped the shiny scale off the fish she caught in the net.
+scale,1,5,The scale near the gills of the fish was larger than the rest.
+scale,1,6,He examined the scale pattern on the fish's skin near the gills.
+scale,1,7,Each scale on the fish was a different shade of shiny silver.
+scale,1,8,The fish lost a scale when it struggled in the net.
+scale,1,9,She noticed the shiny scale pattern extended from the gills to the tail.
+scale,1,10,The scale of the fish was embedded in the tough skin near the gills.
+scale,1,11,He counted the scale rows along the fish's skin from the gills down.
+scale,1,12,The fish's shiny scale flaked off when he touched the skin.
+scale,1,13,The scale near the gills protects the fish from parasites.
+scale,1,14,She admired the shiny scale pattern on the fish in the net.
+scale,1,15,The fish's skin was smooth except where each tiny scale overlapped.
+scale,1,16,He found a loose scale stuck to the net after releasing the fish.
+scale,1,17,Every scale on the fish's skin was perfectly aligned near the gills.
+scale,1,18,She studied the scale structure on the fish's skin under a microscope.
+scale,1,19,A single scale fell from the fish as it splashed.
+scale,1,20,The reptile has a thick protective scale on its back.
+scale,1,21,He examined the iridescent scale under the microscope.
+scale,1,22,"The dragon shed a large, shimmering scale."
+scale,1,23,Each colorful scale on the butterfly wing is fragile.
+scale,1,24,The tough scale acts as armor for the pangolin.
+seal,0,0,A seal basked on the rocks near the shore of the ocean.
+seal,0,1,The seal dove beneath the waves to chase a school of fish.
+seal,0,2,A diver swam alongside a curious seal in the ocean.
+seal,0,3,The seal caught a fish and swallowed it whole on the shore.
+seal,0,4,The seal pup waited on the shore while its mother hunted fish.
+seal,0,5,"A seal surfaced near the diver, startling everyone on the boat."
+seal,0,6,"A lone seal rested on the rocky shore, watching the diver pass by."
+seal,0,7,The seal colony has grown since fishing restrictions were introduced.
+seal,0,8,A diver photographed a seal playing in the shallow ocean waters.
+seal,0,9,The seal slid off the rocks and splashed into the ocean to find fish.
+seal,0,10,The seal swam circles around the diver before heading out to the open ocean.
+seal,0,11,Scientists tagged each seal in the colony to track their fish consumption.
+seal,0,12,"A seal lay on the shore, exhausted after a long swim in the ocean."
+seal,0,13,The diver watched a seal hunt fish along the ocean floor.
+seal,0,14,The seal colony on the shore attracts tourists to the ocean overlook.
+seal,0,15,A baby seal was separated from the colony on the shore.
+seal,0,16,The seal was quick enough to catch fish despite the strong ocean current.
+seal,0,17,A diver reported seeing a large seal near the fish breeding grounds.
+seal,0,18,A playful seal followed the diver back toward the shore.
+seal,0,19,The baby seal played joyfully in the cold ocean.
+seal,0,20,A large seal rested on the iceberg near the water.
+seal,0,21,The hungry seal dove deep to catch a fish.
+seal,0,22,We saw a grey seal swimming near the rocky shore.
+seal,0,23,The spotted seal clapped its flippers together.
+seal,0,24,A curious seal approached the researchers' boat.
+seal,1,0,The official seal on the document confirmed its approval.
+seal,1,1,She pressed the seal into the ink and stamped the form.
+seal,1,2,The seal bore the signature of the director as proof of approval.
+seal,1,3,"Without the proper seal, the form would not receive approval."
+seal,1,4,He applied ink to the seal and stamped the signature page.
+seal,1,5,The royal seal was pressed beside the signature on the form.
+seal,1,6,The approval process requires an official seal on every form.
+seal,1,7,She checked that the seal had enough ink before stamping the form.
+seal,1,8,The seal of approval was stamped next to the signature.
+seal,1,9,Every form must bear the notary's seal and a valid signature.
+seal,1,10,"The ink on the seal was faded, making the stamp hard to read."
+seal,1,11,He received the form with the company seal and official approval.
+seal,1,12,The document carried both a seal and a handwritten signature.
+seal,1,13,"Without the ink seal, the approval would not be considered valid."
+seal,1,14,She stamped the form with the official seal and added her signature.
+seal,1,15,The approval letter bore the corporate seal in dark blue ink.
+seal,1,16,He verified the seal on the form before granting his signature.
+seal,1,17,A wax seal was traditionally used before ink stamps became standard.
+seal,1,18,The form needs a seal of approval and the director's signature.
+seal,1,19,She noticed the seal had smudged and reapplied the ink carefully.
+seal,1,20,The legal form requires both a seal and a notarized signature for approval.
+seal,1,21,He dipped the seal in ink and pressed it firmly onto the form.
+seal,1,22,The approval was final once the seal appeared on the signature page.
+seal,1,23,A fresh ink seal was placed on the form beside the witness signature.
+seal,1,24,The stamp left a clear impression of the seal and confirmed approval.
+spring,0,0,The cherry blossoms are the most beautiful part of spring.
+spring,0,1,Spring rain soaked the garden and helped the planting season begin.
+spring,0,2,The town holds a festival every spring to celebrate the season.
+spring,0,3,Warm sunlight returned to the valley as spring arrived.
+spring,0,4,Spring is the perfect time for planting flowers in the garden.
+spring,0,5,The blossoms opened overnight as spring temperatures warmed.
+spring,0,6,We enjoyed the spring festival under bright sunlight and clear skies.
+spring,0,7,"After a long winter, spring rain brought the fields back to life."
+spring,0,8,The festival marks the official start of spring in our town.
+spring,0,9,Spring sunlight streamed through the windows as planting season approached.
+spring,0,10,The blossoms filled the park with color every spring.
+spring,0,11,Farmers begin their planting as soon as the spring rain softens the soil.
+spring,0,12,The spring festival featured live music and fresh blossoms everywhere.
+spring,0,13,Children played in the spring sunlight after months of cold weather.
+spring,0,14,Early spring rain is essential for a good planting season.
+spring,0,15,The neighborhood organized a spring planting event at the community garden.
+spring,0,16,Bright blossoms lined the streets during the spring festival.
+spring,0,17,"Spring brought gentle rain, warm sunlight, and new growth to the area."
+spring,0,18,The festival celebrates the return of spring with food and blossoms.
+spring,0,19,She looks forward to spring for the planting and the long sunlight hours.
+spring,0,20,"The spring rain was heavy, but the blossoms survived beautifully."
+spring,0,21,People gathered for the annual spring festival as sunlight warmed the town square.
+spring,0,22,Planting season begins in early spring once the frost is gone.
+spring,0,23,The orchard was covered in blossoms by late spring.
+spring,0,24,Spring sunlight encourages the blossoms to open before the festival.
+spring,1,0,The spring in the mechanism lost its tension over time.
+spring,1,1,He replaced the broken spring with a new metal coil.
+spring,1,2,The spring provides the pressure needed to keep the hinge closed.
+spring,1,3,A tightly wound coil spring stores a lot of tension.
+spring,1,4,The metal spring inside the device snapped under pressure.
+spring,1,5,She adjusted the tension on the spring to fix the hinge.
+spring,1,6,The coil spring absorbs pressure and protects the mechanism.
+spring,1,7,A metal spring was used to add tension to the assembly.
+spring,1,8,The spring exerts constant pressure against the hinge plate.
+spring,1,9,He compressed the coil spring and measured the tension.
+spring,1,10,The spring mechanism relies on metal coils to maintain pressure.
+spring,1,11,A worn-out spring can lose its tension and stop working.
+spring,1,12,The hinge creaks because the spring has lost its pressure.
+spring,1,13,The engineer designed a custom spring using a tempered metal coil.
+spring,1,14,Replacing the spring restored the proper tension in the hinge.
+spring,1,15,The coil spring was made of high-grade metal for durability.
+spring,1,16,Too much pressure on the spring will permanently deform the coil.
+spring,1,17,The spring keeps the hinge under tension so the door closes automatically.
+spring,1,18,A tiny metal spring provides the pressure for the locking mechanism.
+spring,1,19,The tension in the spring depends on how tightly the coil is wound.
+spring,1,20,He tested the spring by applying pressure and releasing the metal coil.
+spring,1,21,The hinge spring was corroded and needed a new metal replacement.
+spring,1,22,The compression spring uses coil tension to resist pressure.
+spring,1,23,The metal spring popped out when he removed the hinge cover.
+spring,1,24,A stronger spring was needed to handle the increased pressure on the hinge.
+trunk,0,0,"The trunk of the old tree was massive, with rings dating back centuries."
+trunk,0,1,Sap dripped from a wound in the trunk near the lowest branches.
+trunk,0,2,The tree trunk in the forest was covered in thick moss.
+trunk,0,3,He counted the rings in the trunk to estimate the tree's age.
+trunk,0,4,Branches sprouted from every side of the thick trunk.
+trunk,0,5,A tree trunk this wide must have hundreds of growth rings.
+trunk,0,6,Sap oozed from the trunk where a branch had broken off.
+trunk,0,7,The trunk of the tallest tree in the forest reached high above the canopy.
+trunk,0,8,She traced the rings on the cross-section of the tree trunk.
+trunk,0,9,The trunk was scarred where branches and sap had been stripped away.
+trunk,0,10,"Deep in the forest, a hollow trunk sheltered small animals."
+trunk,0,11,The tree trunk split into two main branches about halfway up.
+trunk,0,12,Rings in the trunk told the story of droughts and wet seasons.
+trunk,0,13,Sap ran down the trunk and pooled at the base of the forest tree.
+trunk,0,14,The trunk was so wide that three people couldn't wrap their arms around it.
+trunk,0,15,Branches near the top of the trunk swayed in the forest breeze.
+trunk,0,16,The tree rings in the trunk showed over two hundred years of growth.
+trunk,0,17,"A woodpecker drilled into the trunk, releasing sap from beneath the bark."
+trunk,0,18,"The forest was dotted with ancient trees, each trunk thick with age."
+trunk,0,19,New branches were growing from a damaged section of the trunk.
+trunk,0,20,"The trunk of the tree leaned toward the light, its rings uneven."
+trunk,0,21,"Sap beetles had bored into the trunk, weakening the old forest tree."
+trunk,0,22,The trunk stood firm despite losing several branches in the storm.
+trunk,0,23,Growth rings in the trunk reveal how a tree responded to each forest season.
+trunk,0,24,The massive oak trunk was covered in green moss.
+trunk,1,0,She loaded the trunk with luggage before heading to the airport.
+trunk,1,1,The trunk barely closed with all the bags packed for the flight.
+trunk,1,2,He attached a tag to each piece of luggage and put them in the trunk.
+trunk,1,3,The trunk was full of bags from the airport terminal pickup.
+trunk,1,4,She popped the trunk and hauled the luggage toward the flight check-in.
+trunk,1,5,A tag fell off the luggage in the trunk on the way to the airport.
+trunk,1,6,The trunk of the taxi was packed with luggage from the terminal.
+trunk,1,7,He closed the trunk and headed to the airport for his flight.
+trunk,1,8,The luggage barely fit in the trunk even after removing the tag labels.
+trunk,1,9,She opened the trunk at the airport terminal to grab her flight bag.
+trunk,1,10,The trunk was emptied of luggage at the airport drop-off.
+trunk,1,11,Every piece of luggage from the trunk had a tag for the flight.
+trunk,1,12,The rental car's trunk was too small for all the airport luggage.
+trunk,1,13,He checked the tag on each bag as he moved luggage from the trunk.
+trunk,1,14,"After the flight, she loaded all the luggage into the trunk at the terminal."
+trunk,1,15,The trunk was scratched from hauling heavy luggage to the airport.
+trunk,1,16,She tied a bright tag to her luggage before placing it in the trunk.
+trunk,1,17,"The flight was delayed, so he left the luggage in the trunk at the airport."
+trunk,1,18,They squeezed every bag into the trunk for the drive to the terminal.
+trunk,1,19,The trunk popped open and luggage spilled onto the airport curb.
+trunk,1,20,He lost a tag from his luggage while loading the trunk before the flight.
+trunk,1,21,The trunk had just enough room for the luggage going on the next flight.
+trunk,1,22,"At the terminal, she pulled all the tagged luggage from the trunk."
+trunk,1,23,The trunk was emptied quickly at the airport before the flight departure.
+trunk,1,24,She double-checked the tag on each bag in the trunk before leaving for the terminal.
+watch,0,0,She glanced at the watch on her wrist to check the timer.
+watch,0,1,"The watch's alarm went off at six, right on schedule."
+watch,0,2,He replaced the battery in his watch so the dial would work again.
+watch,0,3,The timer on the watch started with a press of the dial button.
+watch,0,4,Her wrist watch had a built-in alarm and a stopwatch timer.
+watch,0,5,The battery in the watch lasted a full year before needing replacement.
+watch,0,6,He set the alarm on his watch by turning the small dial.
+watch,0,7,The watch on her wrist displayed a timer counting down the minutes.
+watch,0,8,"A new battery brought the old watch back to life, its dial ticking again."
+watch,0,9,The watch alarm reminded him every morning with a gentle vibration on his wrist.
+watch,0,10,She checked the timer on her watch and adjusted the dial.
+watch,0,11,The watch needed a new battery because the alarm had stopped working.
+watch,0,12,He wore the watch on his left wrist and used the timer daily.
+watch,0,13,"The dial on the watch glowed in the dark, showing the alarm was set."
+watch,0,14,"She wound the watch by twisting the dial, since it had no battery."
+watch,0,15,The alarm on his wrist watch went off during the meeting.
+watch,0,16,The timer feature on the watch was controlled by the side dial.
+watch,0,17,He tapped the watch to silence the alarm and checked the wrist strap.
+watch,0,18,The battery indicator on the watch dial showed it was almost dead.
+watch,0,19,She relied on the watch alarm instead of her phone timer.
+watch,0,20,The watch on her wrist beeped when the timer reached zero.
+watch,0,21,He looked at the dial of the watch and reset the alarm.
+watch,0,22,The watch battery died just as she started the timer.
+watch,0,23,A watch with a rotating dial and alarm timer was his favorite accessory.
+watch,0,24,She fastened the watch to her wrist and set the alarm using the dial.
+watch,1,0,The guard kept watch at the gate throughout his entire shift.
+watch,1,1,"She was on watch duty, patrolling the perimeter with a radio."
+watch,1,2,The watch at the checkpoint was uneventful during the night shift.
+watch,1,3,He took over the watch at the gate and checked his radio.
+watch,1,4,The patrol team maintained a constant watch near the main checkpoint.
+watch,1,5,"During his watch, he radioed the gate for a shift change."
+watch,1,6,"She stood watch at the checkpoint, her radio crackling occasionally."
+watch,1,7,The night watch included a patrol around the gate area every hour.
+watch,1,8,He kept watch near the gate during the early morning shift.
+watch,1,9,The radio buzzed as the patrol reported to the watch at the checkpoint.
+watch,1,10,Her shift on watch began at the gate just after midnight.
+watch,1,11,The guard on watch called the patrol on the radio for backup.
+watch,1,12,The watch at the gate was quiet until the shift change at dawn.
+watch,1,13,"He walked the patrol route during his watch, radio in hand."
+watch,1,14,The checkpoint watch required constant radio contact during every shift.
+watch,1,15,She maintained watch over the gate while the patrol covered the perimeter.
+watch,1,16,The night shift watch at the checkpoint was always the longest.
+watch,1,17,He was on watch when the radio alerted the patrol to an incident at the gate.
+watch,1,18,The patrol reached the checkpoint during the second watch of the shift.
+watch,1,19,"She kept careful watch at the gate, her radio tuned to the patrol channel."
+watch,1,20,The shift ended and a new guard took over the watch at the gate.
+watch,1,21,The radio was essential equipment for anyone on watch or patrol.
+watch,1,22,He reported from the checkpoint that his watch shift had been quiet.
+watch,1,23,The gate was secured during every watch by the patrol team.
+watch,1,24,She radioed the checkpoint when her watch shift was about to end.
