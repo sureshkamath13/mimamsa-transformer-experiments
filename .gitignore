@@ -1,0 +1,15 @@
+__pycache__/
+*.py[codz]
+*$py.class
+.ipynb_checkpoints/
+*.log
+.env
+.env.*
+.venv/
+venv/
+env/
+.DS_Store
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
